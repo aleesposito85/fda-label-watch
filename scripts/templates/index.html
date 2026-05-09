@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}FDA Label Watch — tracked drugs{% endblock %}
+{% block main %}
+<section class="intro">
+  <h1>FDA Label Watch</h1>
+  <p>
+    Daily snapshots and diffs of FDA drug labels, sourced from DailyMed.
+    {{ drugs|length }} drug{{ "s" if drugs|length != 1 else "" }} tracked.
+  </p>
+</section>
+
+{% if recent_changes %}
+<section class="recent">
+  <h2>Recent changes</h2>
+  <ul class="change-list">
+    {% for c in recent_changes %}
+    <li>
+      <time datetime="{{ c.when.isoformat() }}">{{ c.when.strftime('%Y-%m-%d') }}</time>
+      <a href="drugs/{{ c.drug_slug }}/index.html#change-{{ c.section_slug }}-{{ c.to_version }}">
+        {{ c.drug_name }} — {{ c.section_label }}
+      </a>
+      <span class="version-tag">v{{ c.from_version }} → v{{ c.to_version }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section class="drugs">
+  <h2>Tracked drugs</h2>
+  <table class="drug-table">
+    <thead>
+      <tr><th>Drug</th><th>Latest version</th><th>Published</th><th>Tracked changes</th></tr>
+    </thead>
+    <tbody>
+      {% for d in drugs %}
+      <tr>
+        <td><a href="drugs/{{ d.slug }}/index.html">{{ d.name }}</a></td>
+        <td>v{{ d.spl_version }}</td>
+        <td>{{ d.published_date }}</td>
+        <td>{{ d.change_count }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% endblock %}

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% set root = "../../" %}
+{% block title %}{{ drug.name }} — FDA Label Watch{% endblock %}
+{% block main %}
+<article class="drug">
+  <header class="drug-header">
+    <p class="breadcrumb"><a href="{{ root }}index.html">← All drugs</a></p>
+    <h1>{{ drug.name }}</h1>
+    <p class="meta">
+      <strong>{{ meta.title }}</strong><br>
+      Latest: <span class="version-tag">v{{ meta.spl_version }}</span> published {{ meta.published_date }}.
+      {% if meta.dailymed_url %}
+      <a href="{{ meta.dailymed_url }}" rel="noopener">View on DailyMed →</a>
+      {% endif %}
+    </p>
+    {% if drug.notes %}<p class="notes">{{ drug.notes }}</p>{% endif %}
+    <p class="counts">
+      {{ versions_count }} snapshot{{ "s" if versions_count != 1 else "" }} on file ·
+      {{ changes|length }} section change{{ "s" if changes|length != 1 else "" }} recorded
+    </p>
+  </header>
+
+  {% if changes %}
+  <section class="changes">
+    <h2>Change history</h2>
+    {% for c in changes %}
+    <article class="change" id="change-{{ c.section_slug }}-{{ c.to_version }}">
+      <header>
+        <h3>{{ c.section_label }}</h3>
+        <p class="change-meta">
+          v{{ c.from_version }} → <strong>v{{ c.to_version }}</strong>
+          <span class="dot">·</span>
+          <time datetime="{{ c.when.isoformat() }}">{{ c.when.strftime('%Y-%m-%d') }}</time>
+        </p>
+      </header>
+      {{ c.diff_html|safe }}
+    </article>
+    {% endfor %}
+  </section>
+  {% else %}
+  <section class="no-changes">
+    <p><em>No changes recorded yet — this is the baseline snapshot.</em></p>
+  </section>
+  {% endif %}
+
+  <section class="current">
+    <h2>Current label sections</h2>
+    {% for s in sections %}
+    <details class="section" {% if s.slug == 'boxed_warning' and not s.empty %}open{% endif %}>
+      <summary>{{ s.label }}{% if s.empty %} <span class="muted">(not in this label)</span>{% endif %}</summary>
+      <div class="section-body">
+        {{ s.html|safe }}
+      </div>
+    </details>
+    {% endfor %}
+  </section>
+</article>
+{% endblock %}

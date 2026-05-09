@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}FDA Label Watch{% endblock %}</title>
+  <link rel="stylesheet" href="{{ root|default('') }}static/styles.css">
+  <link rel="alternate" type="application/atom+xml" title="FDA Label Watch — recent changes" href="{{ root|default('') }}feed.xml">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="{{ root|default('') }}index.html">FDA Label Watch</a>
+    <nav>
+      <a href="{{ root|default('') }}index.html">Drugs</a>
+      <a href="{{ root|default('') }}changes.html">All changes</a>
+      <a href="{{ root|default('') }}feed.xml">Atom feed</a>
+    </nav>
+  </header>
+  <main>
+    {% block main %}{% endblock %}
+  </main>
+  <footer class="site-footer">
+    <p>
+      Snapshots taken from <a href="https://dailymed.nlm.nih.gov/">DailyMed</a> (NLM/NIH).
+      Source: <a href="https://github.com/your-org/fda-label-watch">github.com/your-org/fda-label-watch</a>.
+      Generated {{ generated_at.strftime('%Y-%m-%d %H:%M UTC') }}.
+    </p>
+    <p class="disclaimer">
+      Not medical advice. Consult the official label at DailyMed before making clinical decisions.
+    </p>
+  </footer>
+</body>
+</html>

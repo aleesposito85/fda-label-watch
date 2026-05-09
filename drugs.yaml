@@ -1,0 +1,111 @@
+# FDA Label Watch — tracked drugs
+#
+# Each entry is a DailyMed setid (UUID for a Set of SPL versions).
+# To add a drug, run: python scripts/bootstrap_setids.py "drug name"
+# then paste the result here and open a PR.
+#
+# slug:       URL/path-safe identifier (lowercase, hyphenated)
+# name:       human-readable display name
+# setid:      DailyMed Set ID (stable across versions of the same label)
+# notes:      optional free text
+
+drugs:
+  - slug: eliquis
+    name: Eliquis (apixaban)
+    setid: a454cd24-0c6d-46e8-b1e4-197388606175
+    notes: Anticoagulant — Bristol-Myers Squibb / Pfizer
+
+  - slug: ozempic
+    name: Ozempic (semaglutide)
+    setid: adec4fd2-6858-4c99-91d4-531f5f2a2d79
+    notes: GLP-1 agonist — Novo Nordisk
+
+  - slug: wegovy
+    name: Wegovy (semaglutide)
+    setid: ee06186f-2aa3-4990-a760-757579d8f77b
+    notes: Weight management — Novo Nordisk
+
+  - slug: mounjaro
+    name: Mounjaro (tirzepatide)
+    setid: d2d7da5d-ad07-4228-955f-cf7e355c8cc0
+    notes: GIP/GLP-1 agonist — Eli Lilly
+
+  - slug: jardiance
+    name: Jardiance (empagliflozin)
+    setid: faf3dd6a-9cd0-39c2-0d2e-232cb3f67565
+    notes: SGLT2 inhibitor — Boehringer Ingelheim
+
+  - slug: trulicity
+    name: Trulicity (dulaglutide)
+    setid: 463050bd-2b1c-40f5-b3c3-0a04bb433309
+    notes: GLP-1 agonist — Eli Lilly
+
+  - slug: humira
+    name: Humira (adalimumab)
+    setid: 608d4f0d-b19f-46d3-749a-7159aa5f933d
+    notes: TNF inhibitor — AbbVie
+
+  - slug: xarelto
+    name: Xarelto (rivaroxaban)
+    setid: 10db92f9-2300-4a80-836b-673e1ae91610
+    notes: Anticoagulant — Janssen
+
+  - slug: lipitor
+    name: Lipitor (atorvastatin)
+    setid: a60cc18b-0631-4cf0-b021-9f52224ece65
+    notes: Statin — Viatris
+
+  - slug: metformin
+    name: Metformin hydrochloride
+    setid: 4f70f907-08d5-4c2e-a4be-32c6124faa7b
+    notes: Generic — Mylan label
+
+  - slug: lisinopril
+    name: Lisinopril
+    setid: 34bb4602-ccff-4939-91b9-26a63bfd40f7
+    notes: ACE inhibitor — generic
+
+  - slug: levothyroxine
+    name: Levothyroxine sodium
+    setid: 50fe00b3-6610-1cac-e063-6294a90af8ac
+    notes: Thyroid hormone — generic
+
+  - slug: sertraline
+    name: Sertraline hydrochloride
+    setid: cac718b8-64bc-4aca-9b22-f2b00077bd41
+    notes: SSRI — generic
+
+  - slug: warfarin
+    name: Warfarin sodium
+    setid: 884cdbf6-0a52-4126-8e14-b0d7c9367e33
+    notes: Anticoagulant — generic
+
+  - slug: gabapentin
+    name: Gabapentin
+    setid: 100ff86c-56a8-4770-9db3-b9bc6b1bd2f7
+    notes: Anticonvulsant — generic
+
+  - slug: amoxicillin
+    name: Amoxicillin
+    setid: 5037e2a5-52e9-caec-e063-6294a90ad837
+    notes: Antibiotic — generic
+
+  - slug: albuterol
+    name: Albuterol sulfate
+    setid: b72742df-1a6b-4483-aff3-3e79db5e015d
+    notes: Bronchodilator — generic
+
+  - slug: metoprolol
+    name: Metoprolol succinate
+    setid: 1098f26d-8319-4dba-ad66-3df22db2b399
+    notes: Beta blocker — generic
+
+  - slug: fluoxetine
+    name: Fluoxetine hydrochloride
+    setid: 7d7a196b-91de-4753-8bb6-c6d5c668952d
+    notes: SSRI — generic
+
+  - slug: clopidogrel
+    name: Clopidogrel bisulfate
+    setid: 53de10a5-dbd0-413d-90e5-00a1920ec391
+    notes: Antiplatelet — generic
