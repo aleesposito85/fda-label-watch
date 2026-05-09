@@ -1,5 +1,6 @@
 # 6 ADVERSE REACTIONS
 
+NEW (2026 update): Postmarketing reports of rare hepatic events have been received.
 The following clinically significant adverse reactions are discussed in greater detail in other sections of the prescribing information.
 
 - •Increased Risk of Thrombotic Events After Premature Discontinuation [see Warnings and Precautions (5.1)]
