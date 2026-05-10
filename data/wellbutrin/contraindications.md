@@ -1,0 +1,7 @@
+# 4 CONTRAINDICATIONS
+
+- •WELLBUTRIN SR is contraindicated in patients with a seizure disorder.
+- •WELLBUTRIN SR is contraindicated in patients with a current or prior diagnosis of bulimia or anorexia nervosa as a higher incidence of seizures was observed in such patients treated with the immediate‑release formulation of bupropion [see Warnings and Precautions (5.3)].
+- •WELLBUTRIN SR is contraindicated in patients undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Warnings and Precautions (5.3), Drug Interactions (7.3)].
+- •The use of MAOIs (intended to treat psychiatric disorders) concomitantly with WELLBUTRIN SR or within 14 days of discontinuing treatment with WELLBUTRIN SR is contraindicated. There is an increased risk of hypertensive reactions when WELLBUTRIN SR is used concomitantly with MAOIs. The use of WELLBUTRIN SR within 14 days of discontinuing treatment with an MAOI is also contraindicated. Starting WELLBUTRIN SR in a patient treated with reversible MAOIs such as linezolid or intravenous methylene blue is contraindicated [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.4), Drug Interactions (7.6)].
+- •WELLBUTRIN SR is contraindicated in patients with known hypersensitivity to bupropion or other ingredients of WELLBUTRIN SR. Anaphylactoid/anaphylactic reactions and Stevens-Johnson syndrome have been reported [see Warnings and Precautions (5.8)].

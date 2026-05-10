@@ -1,0 +1,13 @@
+# Drug Interactions
+
+Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.
+
+Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracyclines in conjunction with penicillin.
+
+Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations.
+
+Absorption of tetracyclines is impaired by bismuth subsalicylate.
+
+Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
+
+Concurrent use of tetracycline may render oral contraceptives less effective.
