@@ -109,3 +109,147 @@ drugs:
     name: Clopidogrel bisulfate
     setid: 53de10a5-dbd0-413d-90e5-00a1920ec391
     notes: Antiplatelet — generic
+
+  # --- Cardiovascular ---
+  - slug: amlodipine
+    name: Amlodipine besylate
+    setid: 003dd1ec-16f8-4f96-b6a8-c4689d35892a
+    notes: Calcium channel blocker — generic
+
+  - slug: hydrochlorothiazide
+    name: Hydrochlorothiazide
+    setid: ff557069-f177-4e2e-91f4-675a033e2739
+    notes: Thiazide diuretic — generic
+
+  - slug: rosuvastatin
+    name: Rosuvastatin calcium
+    setid: 11fad602-16c2-4c1f-bdf1-867d95f063ca
+    notes: Statin — generic (Crestor)
+
+  - slug: simvastatin
+    name: Simvastatin
+    setid: c03ab80c-a3ae-4634-a76b-f53740db76f5
+    notes: Statin — generic (Zocor)
+
+  # --- GI / acid suppression ---
+  - slug: omeprazole
+    name: Omeprazole
+    setid: db2d75ea-5924-4b7f-a92d-d4847a010d52
+    notes: PPI — generic (Prilosec)
+
+  - slug: pantoprazole
+    name: Pantoprazole sodium
+    setid: f38a6df2-1dd4-48bf-9ec4-1113ce492e78
+    notes: PPI — generic (Protonix)
+
+  # --- Pain / anti-inflammatory ---
+  - slug: ibuprofen
+    name: Ibuprofen
+    setid: b6a6c940-daf6-4e0e-aefb-35cce87a9a55
+    notes: NSAID — generic (Advil/Motrin)
+
+  - slug: naproxen
+    name: Naproxen
+    setid: 852fed15-e78b-47a8-aeb4-623dfe1edad9
+    notes: NSAID — generic (Aleve)
+
+  - slug: tylenol
+    name: Tylenol (acetaminophen)
+    setid: 1b164780-ec84-4187-8afa-6f8a0da550fc
+    notes: Analgesic/antipyretic — Kenvue brand label
+
+  - slug: tramadol
+    name: Tramadol hydrochloride
+    setid: a77b0dba-8ac7-418a-b435-16a0e6c22804
+    notes: Opioid analgesic — generic
+
+  # --- Antibiotics ---
+  - slug: azithromycin
+    name: Azithromycin
+    setid: 5f144e92-c9eb-420a-9bb8-4265a9f20a98
+    notes: Macrolide antibiotic — generic (Z-Pak)
+
+  - slug: ciprofloxacin
+    name: Ciprofloxacin
+    setid: 4edc4fda-7834-46cc-a0ed-22f117e6e10b
+    notes: Fluoroquinolone antibiotic — generic (Cipro)
+
+  - slug: doxycycline
+    name: Doxycycline hyclate
+    setid: 7a915c50-6fce-45e6-9554-677bb09a868d
+    notes: Tetracycline antibiotic — generic
+
+  # --- Mental health ---
+  - slug: escitalopram
+    name: Escitalopram oxalate
+    setid: 0de88dad-d54c-4773-a5d6-a705e012973a
+    notes: SSRI — generic (Lexapro)
+
+  - slug: cymbalta
+    name: Cymbalta (duloxetine)
+    setid: 2f7d4d67-10c1-4bf4-a7f2-c185fbad64ba
+    notes: SNRI — Eli Lilly brand label
+
+  - slug: venlafaxine
+    name: Venlafaxine hydrochloride
+    setid: 7852be9e-0c1d-47a8-9513-c3a04b365763
+    notes: SNRI — generic (Effexor)
+
+  - slug: wellbutrin
+    name: Wellbutrin SR (bupropion)
+    setid: cbc8c074-f080-4489-a5ae-207b5fadeba3
+    notes: NDRI antidepressant — GSK brand label
+
+  - slug: alprazolam
+    name: Alprazolam
+    setid: 2bd0d4c6-0fde-46f2-bb13-da25d50427df
+    notes: Benzodiazepine — generic (Xanax)
+
+  - slug: lorazepam
+    name: Lorazepam
+    setid: 1009c870-fd98-4e3b-81c8-4184036fb8c2
+    notes: Benzodiazepine — generic (Ativan)
+
+  - slug: zolpidem
+    name: Zolpidem tartrate
+    setid: f67ef513-1b2c-42fe-bf33-4c7e9db191a3
+    notes: Sedative-hypnotic — generic (Ambien)
+
+  # --- Respiratory ---
+  - slug: montelukast
+    name: Montelukast sodium
+    setid: c69ab399-8ea6-4002-9271-b6a57c862b14
+    notes: Leukotriene antagonist — generic (Singulair); has boxed warning
+
+  - slug: advair
+    name: Advair Diskus (fluticasone/salmeterol)
+    setid: cf306656-0d4c-4edd-9d6a-3471f99484e6
+    notes: Asthma/COPD inhaled combo
+
+  # --- Anticonvulsants ---
+  - slug: lamotrigine
+    name: Lamotrigine
+    setid: f31e1854-6068-4e45-b1e5-6def862fc466
+    notes: Anticonvulsant / mood stabilizer — generic (Lamictal)
+
+  # --- ADHD ---
+  - slug: vyvanse
+    name: Vyvanse (lisdexamfetamine)
+    setid: 18a97c88-0f72-4b02-be0d-4d093886cca5
+    notes: Stimulant — schedule II
+
+  - slug: methylphenidate
+    name: Methylphenidate hydrochloride
+    setid: 5a29687b-5294-4b27-a556-514b092a877d
+    notes: Stimulant — generic (Ritalin/Concerta)
+
+  # --- Oncology / immunotherapy ---
+  - slug: keytruda
+    name: Keytruda (pembrolizumab)
+    setid: 9333c79b-d487-4538-a9f0-71b91a02b287
+    notes: PD-1 inhibitor — Merck
+
+  - slug: opdivo
+    name: Opdivo (nivolumab)
+    setid: f570b9c4-6846-4de2-abfa-4d0a4ae4e394
+    notes: PD-1 inhibitor — BMS
