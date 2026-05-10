@@ -16,7 +16,7 @@ publishes to GitHub Pages.
 
 ## What you get
 
-- A static site at `<your-pages-url>` listing every tracked drug with its latest
+- A static site at `https://aleesposito85.github.io/fda-label-watch` listing every tracked drug with its latest
   version, published date, and a count of changes recorded so far.
 - A per-drug page with the current label sections (collapsible) and a
   reverse-chronological list of every section change since tracking began,
