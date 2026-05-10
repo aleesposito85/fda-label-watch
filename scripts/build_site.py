@@ -320,6 +320,7 @@ def build():
 
     drug_summaries: list[dict] = []
     all_changes: list[Change] = []
+    now = datetime.now(timezone.utc)
 
     for drug in drugs:
         slug = drug["slug"]
@@ -354,6 +355,7 @@ def build():
             changes=sorted(per_drug_changes, key=lambda c: c.when, reverse=True),
             versions_count=len(versions),
             updated_at=latest.commit.date,
+            generated_at=now,
         ))
 
         drug_summaries.append({
@@ -368,7 +370,6 @@ def build():
         })
 
     all_changes.sort(key=lambda c: c.when, reverse=True)
-    now = datetime.now(timezone.utc)
 
     (SITE_DIR / "index.html").write_text(env.get_template("index.html").render(
         drugs=sorted(drug_summaries, key=lambda d: d["name"].lower()),

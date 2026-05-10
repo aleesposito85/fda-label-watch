@@ -348,6 +348,7 @@ def main() -> int:
             return 2
 
     fail = 0
+    total = len(drugs)
     for drug in drugs:
         try:
             status = fetch_drug(drug, force=args.force)
@@ -356,7 +357,14 @@ def main() -> int:
             fail += 1
             print(f"[{drug.slug}] ERROR: {e}", file=sys.stderr)
         time.sleep(0.5)  # polite pacing for DailyMed
-    return 1 if fail else 0
+    # Only fail the run if *most* drugs failed — individual flakes on DailyMed
+    # shouldn't tank the daily snapshot. Partial data is still useful.
+    if total and fail >= max(2, total // 2):
+        print(f"FAIL: {fail}/{total} drugs failed", file=sys.stderr)
+        return 1
+    if fail:
+        print(f"WARN: {fail}/{total} drugs failed (continuing)", file=sys.stderr)
+    return 0
 
 
 if __name__ == "__main__":
