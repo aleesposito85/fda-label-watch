@@ -1,0 +1,28 @@
+# WARNING: (A) PREMATURE DISCONTINUATION OF XARELTO INCREASES THE RISK OF THROMBOTIC EVENTS, (B) SPINAL/EPIDURAL HEMATOMA
+
+A.
+Premature discontinuation of XARELTO increases the risk of thrombotic events
+
+Premature discontinuation of any oral anticoagulant, including XARELTO, increases the risk of thrombotic events.
+If anticoagulation with XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4), Warnings and Precautions (5.1), and Clinical Studies (14.1)].
+
+B.
+Spinal/epidural hematoma
+
+Epidural or spinal hematomas have occurred in patients treated with XARELTO who are receiving neuraxial anesthesia or undergoing spinal puncture.
+These hematomas may result in long-term or permanent paralysis.
+Consider these risks when scheduling patients for spinal procedures.
+Factors that can increase the risk of developing epidural or spinal hematomas in these patients include:
+
+- use of indwelling epidural catheters
+- concomitant use of other drugs that affect hemostasis, such as non-steroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants
+- a history of traumatic or repeated epidural or spinal punctures
+- a history of spinal deformity or spinal surgery
+- optimal timing between the administration of XARELTO and neuraxial procedures is not known
+
+[see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2)].
+
+Monitor patients frequently for signs and symptoms of neurological impairment.
+If neurological compromise is noted, urgent treatment is necessary [see Warnings and Precautions (5.3)].
+
+Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated for thromboprophylaxis [see Warnings and Precautions (5.3)].
