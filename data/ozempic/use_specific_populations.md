@@ -53,7 +53,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In lactating rats, semaglutide was detected in milk at levels 3- to 12- fold lower than in maternal plasma.
+In lactating rats, semaglutide was detected in milk at levels 3- to 12-fold lower than in maternal plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 

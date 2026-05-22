@@ -190,6 +190,8 @@ Endocrine: Hypoparathyroidism
 
 Hematologic/Immune: Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection, other transplant (including corneal graft) rejection
 
+Other: Myocarditis-Myositis-Myasthenia Gravis (or Myasthenia-Like) Overlap Syndrome, reported as the co-occurrence of either two or all three adverse reactions.
+
 ## 5.2 Infusion-Related Reactions
 
 KEYTRUDA can cause severe or life-threatening infusion-related reactions, including hypersensitivity and anaphylaxis, which have been reported in 0.2% of 2799 patients receiving KEYTRUDA.

@@ -18,9 +18,9 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including semaglutide [see Adverse Reactions (6.1)].
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including OZEMPIC [see Adverse Reactions (6)].
 
-After initiation of OZEMPIC, observe patients carefully for signs and symptoms of acute pancreatitis which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
+After initiation of OZEMPIC, observe patients carefully for signs and symptoms of acute pancreatitis, which may include persistent or severe abdominal pain (sometimes radiating to the back), and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue OZEMPIC and initiate appropriate management.
 
 ## 5.3 Diabetic Retinopathy Complications
@@ -51,7 +51,7 @@ The majority of the reported events occurred in patients who experienced gastroi
 
 ## 5.7 Severe Gastrointestinal Adverse Reactions
 
-Use of OZEMPIC has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions ( 6 )].
+Use of OZEMPIC has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions ( 6 )] .
 In OZEMPIC clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving OZEMPIC (0.5 mg 0.4%, 1 mg 0.8%) than placebo (0%).Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 
 OZEMPIC is not recommended in patients with severe gastroparesis.
@@ -74,7 +74,7 @@ If cholelithiasis is suspected, gallbladder studies and appropriate clinical fol
 
 ## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
-OZEMPIC delays gastric emptying [see Clinical Pharmacology ( 12.2 ) ].
+OZEMPIC delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
 
 Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking OZEMPIC, including whether modifying preoperative fasting recommendations or temporarily discontinuing OZEMPIC could reduce the incidence of retained gastric contents.
