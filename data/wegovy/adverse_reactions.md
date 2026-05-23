@@ -33,7 +33,7 @@ Table 3 shows adverse reactions reported in greater than or equal to 2% of WEGOV
 Table 3.
 Adverse Reactions (≥2% and Greater Than Placebo) in WEGOVY 2.4 mg Injection-treated Adults with Obesity or Overweight for Weight Reduction
 
-| Placebo N=1,261 % | WEGOVY Injection (2.4 mg once weekly) N=2,116 %
+| Placebo N=1,261 % | WEGOVY Injection (2.4 mg Once Weekly) N=2,116 %
 Nausea | 16 | 44
 Diarrhea | 16 | 30
 Vomiting | 6 | 24
@@ -84,7 +84,7 @@ Table 4 shows adverse reactions reported in greater than or equal to 2% of WEGOV
 Table 4.
 Adverse Reactions (2% and Greater Than WEGOVY 2.4 mg and Placebo) in WEGOVY 7.2 mg Injection-treated Adults with Obesity for Weight Reduction
 
-| Placebo N=303 % | WEGOVY Injection (2.4 mg once weekly) N=304 % | WEGOVY Injection (7.2 mg once weekly) N=1,311 %
+| Placebo N=303 % | WEGOVY Injection (2.4 mg Once Weekly) N=304 % | WEGOVY Injection (7.2 mg Once Weekly) N=1,311 %
 Nausea | 13 | 35 | 39
 Vomiting | 6 | 16 | 22
 Dysesthesiaa | 0 | 6 | 22
@@ -128,7 +128,7 @@ Table 5 shows adverse reactions reported in greater than or equal to 3% of WEGOV
 Table 5.
 Adverse Reactions (≥3% and Greater than Placebo) in WEGOVY 2.4 mg Injection-treated Pediatric Patients Aged 12 Years and Older with Obesity for Weight Reduction
 
-| Placebo N=67 % | WEGOVY Injection (2.4 mg once weekly) N=133 %
+| Placebo N=67 % | WEGOVY Injection (2.4 mg Once Weekly) N=133 %
 Nausea | 18 | 42
 Vomiting | 10 | 36
 Diarrhea | 19 | 22
@@ -167,7 +167,7 @@ Acute Gallbladder Disease
 
 In WEGOVY clinical trials in adults for weight reduction, cholelithiasis was reported by 1.6% of WEGOVY injection-treated patients and 0.7% of placebo-treated patients and by 2.5% of WEGOVY tablet-treated patients and 1% of placebo tablet-treated patients.
 Cholecystitis was reported by 0.6% of WEGOVY injection-treated adult patients and 0.2% of placebo-treated patients.
-In a clinical trial in pediatric patients aged 12 years and older for weight reduction [see Clinical Studies (14.3)], cholelithiasis was reported by 3.8% of WEGOVY injection-treated patients and 0% placebo-treated patients.
+In a clinical trial in pediatric patients aged 12 years and older for weight reduction [see Clinical Studies ( 14.3)], cholelithiasis was reported by 3.8% of WEGOVY injection-treated patients and 0% placebo-treated patients.
 Cholecystitis was reported by 0.8% of WEGOVY injection-treated pediatric patients and 0% placebo-treated patients.
 
 Hypoglycemia

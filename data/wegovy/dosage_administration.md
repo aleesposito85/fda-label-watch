@@ -17,6 +17,7 @@ WEGOVY Tablets
 
 - • Take one WEGOVY tablet orally once daily on an empty stomach in the morning with water (up to 4 ounces). Do not take WEGOVY tablets with other liquids besides water [see Clinical Pharmacology (12.3)].
 - • Swallow tablets whole. Do not split, crush, chew or dissolve in any solution.
+- • Do not take more than one tablet per day.
 - • After taking a WEGOVY tablet, wait at least 30 minutes before eating food, drinking beverages or taking other oral medications [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Recommended Dosage for WEGOVY Injection
@@ -82,8 +83,8 @@ Maintenance Dosage | 91 and onward | 25 mg
 WEGOVY Injection
 
 - • If one dose of WEGOVY injection is missed and the next scheduled dose is:
-- o More than 2 days away, administer WEGOVY injection as soon as possible.
-- o Less than 2 days away do not administer the WEGOVY injection dose. Resume dosing on the regularly scheduled day of the week.
+- o more than 2 days away, administer WEGOVY injection as soon as possible.
+- o less than 2 days away do not administer the WEGOVY injection dose. Resume dosing on the regularly scheduled day of the week.
 - • If 2 or more consecutive doses of WEGOVY injection are missed, resume dosing as scheduled or, if needed, reinitiate WEGOVY injection and follow the dosage escalation schedule, which may reduce the occurrence of gastrointestinal adverse reactions associated with reinitiation of treatment [see Dosage and Administration (2.2)].
 
 WEGOVY Tablets
