@@ -360,7 +360,9 @@ Musculoskeletal and Connective Tissue: Myositis/polymyositis, rhabdomyolysis, an
 
 Endocrine: Hypoparathyroidism
 
-Other (Hematologic/Immune): Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection, other transplant (including corneal graft) rejection
+Hematologic/Immune: Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection, other transplant (including corneal graft) rejection
+
+Other: Myocarditis-Myositis-Myasthenia Gravis (or Myasthenia-Like) Overlap Syndrome, reported as the co-occurrence of either two or all three adverse reactions.
 
 ## 5.2 Infusion-Related Reactions
 

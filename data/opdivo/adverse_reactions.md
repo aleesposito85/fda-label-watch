@@ -740,7 +740,7 @@ Hematology
 Anemia | 43 | 3 | 64 | 9
 Lymphopenia | 36 | 5 | 63 | 14
 
-In addition, among patients with TSH ≤ULN at baseline, a lower proportion of patients experienced a treatment-emergent elevation of TSH > ULN in the OPDIVO and ipilimumab group compared to the sunitinib group (31% and 61%, respectively).
+In addition, among patients with TSH ≤ ULN at baseline, a lower proportion of patients experienced a treatment-emergent elevation of TSH > ULN in the OPDIVO and ipilimumab group compared to the sunitinib group (31% and 61%, respectively).
 
 ##### CHECKMATE-9ER
 
@@ -836,7 +836,7 @@ Forty-four percent (44%) of patients receiving OPDIVO had a dose interruption fo
 The most frequent serious adverse reactions in at least 2% of patients were: acute kidney injury, pleural effusion, pneumonia, diarrhea, and hypercalcemia.
 The most common adverse reactions (≥20%) were fatigue, cough, nausea, rash, dyspnea, diarrhea, constipation, decreased appetite, back pain, and arthralgia.
 The most common laboratory abnormalities which have worsened compared to baseline in ≥30% of patients include increased creatinine, lymphopenia, anemia, increased AST, increased alkaline phosphatase, hyponatremia, increased triglycerides, and hyperkalemia.
-In addition, among patients with TSH < ULN at baseline, a greater proportion of patients experienced a treatment-emergent elevation of TSH >ULN in the OPDIVO group compared to the everolimus group (26% and 14%, respectively).
+In addition, among patients with TSH < ULN at baseline, a greater proportion of patients experienced a treatment-emergent elevation of TSH > ULN in the OPDIVO group compared to the everolimus group (26% and 14%, respectively).
 
 Tables 29 and 30 summarize adverse reactions and laboratory abnormalities, respectively, in CHECKMATE-025.
 
