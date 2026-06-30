@@ -112,6 +112,8 @@ KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatm
 
 KEYTRUDA is indicated for the adjuvant treatment of patients with RCC at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions [see Clinical Studies (14.16)].
 
+KEYTRUDA, in combination with belzutifan, is indicated for the adjuvant treatment of adult patients with RCC with a clear cell component (ccRCC) at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions.
+
 ## 1.17 Endometrial Carcinoma
 
 KEYTRUDA, in combination with carboplatin and paclitaxel, followed by KEYTRUDA as a single agent, is indicated for the treatment of adult patients with primary advanced or recurrent endometrial carcinoma.
