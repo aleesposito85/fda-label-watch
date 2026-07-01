@@ -8,10 +8,12 @@ Administer WEGOVY in combination with a reduced-calorie diet and increased physi
 
 WEGOVY Injection
 
-- • Prior to initiation of WEGOVY injection, train patients on proper injection technique. Refer to the accompanying Instructions for Use for complete administration instructions with illustrations.
+- • Inform patients and their caregiver(s) which WEGOVY presentation (e.g., single-dose pen or syringe, or WEGOVY FlexTouch single-patient-use pen) they will receive and ensure they receive training appropriate for that specific presentation. If the prescribed WEGOVY presentation changes, ensure patients and caregivers receive appropriate training and instruct them to consult the Instructions for Use for the newly prescribed presentation.
+- • Prior to initiation, train patients and their caregiver(s) on proper injection technique for the prescribed WEGOVY presentation [see Instructions for Use ] . After training, a patient may self-inject WEGOVY if the healthcare provider determines that it can be properly administered, except for the following: o WEGOVY FlexTouch is not recommended for self-administration by those who are visually impaired.
 - • Visually inspect the WEGOVY injection prior to each administration. Only use if the solution is clear, colorless, and contains no particles.
 - • Administer WEGOVY injection once weekly, on the same day each week, at any time of day, with or without meals.
 - • Inject WEGOVY subcutaneously in the abdomen, thigh, or upper arm. The time of day and the injection site can be changed without the need for a dosage modification.
+- • Rotate injection sites with each dose.
 
 WEGOVY Tablets
 
@@ -53,7 +55,7 @@ Weight Reduction in Adults
 
 Weight Reduction in Pediatric Patients Aged 12 Years and Older
 
-- • The maintenance dosage of WEGOVY injection for weight reduction in pediatric patients aged 12 years and older is either 2.4 mg (recommended), 1.7 mg once weekly.
+- • The maintenance dosage of WEGOVY injection for weight reduction in pediatric patients aged 12 years and older is either 2.4 mg (recommended), or 1.7 mg once weekly.
 - • Consider treatment response and tolerability when selecting the maintenance dosage [see Adverse Reactions ( 6.1 ), Clinical Studies ( 14.3 )] .
 
 Noncirrhotic MASH with Moderate to Advanced Liver Fibrosis in Adults
@@ -84,8 +86,8 @@ WEGOVY Injection
 
 - • If one dose of WEGOVY injection is missed and the next scheduled dose is:
 - o more than 2 days away, administer WEGOVY injection as soon as possible.
-- o less than 2 days away do not administer the WEGOVY injection dose. Resume dosing on the regularly scheduled day of the week.
-- • If 2 or more consecutive doses of WEGOVY injection are missed, resume dosing as scheduled or, if needed, reinitiate WEGOVY injection and follow the dosage escalation schedule, which may reduce the occurrence of gastrointestinal adverse reactions associated with reinitiation of treatment [see Dosage and Administration (2.2)].
+- o less than 2 days away, do not administer the WEGOVY injection dose. Resume dosing on the regularly scheduled day of the week.
+- • If 2 or more consecutive doses of WEGOVY injection are missed, reinitiate dosage escalation at a lower dosage to reduce the risk of gastrointestinal adverse reactions [see Dosage and Administration (2.2), Warnings and Precautions ( 5.6 ), Adverse Reactions (6.1)].
 
 WEGOVY Tablets
 

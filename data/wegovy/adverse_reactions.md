@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-- •Risk of Thyroid C-Cell Tumors [see Warnings and Precautions (5.1)]
+- •Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
 - •Acute Pancreatitis [see Warnings and Precautions (5.2)]
 - •Acute Gallbladder Disease [see Warnings and Precautions (5.3)]
 - •Hypoglycemia [see Warnings and Precautions (5.4)]
@@ -152,7 +152,7 @@ Urticaria | 0 | 3
 
 Adverse Reactions in Clinical Trials in Adults with MASH Treated with WEGOVY Injection
 
-The safety of WEGOVY injection was evaluated in a randomized, double-blind, placebo-controlled trial (Study 9) that included 1,195 adult patients with MASH, including 800 patients who were exposed to WEGOVY for a median of 95.3 weeks and 395 patients who were exposed to placebo for a median of 83.1 weeks [see Clinical Studies (14.4)].
+The safety of WEGOVY injection was evaluated in a randomized, double-blind, placebo-controlled trial (Study 11) that included 1,195 adult patients with MASH, including 800 patients who were exposed to WEGOVY for a median of 95.3 weeks and 395 patients who were exposed to placebo for a median of 83.1 weeks [see Clinical Studies (14.4)].
 
 The most commonly reported adverse reactions were consistent with the other approved WEGOVY indications (see Table 3).
 There is limited information in patients with MASH and a BMI <25 kg/m2.

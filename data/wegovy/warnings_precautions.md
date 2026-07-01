@@ -106,3 +106,8 @@ There have been rare postmarketing reports of pulmonary aspiration in patients r
 
 Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking WEGOVY, including whether modifying preoperative fasting recommendations or temporarily discontinuing WEGOVY could reduce the incidence of retained gastric contents.
 Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking WEGOVY.
+
+## 5.11 Never Share WEGOVY FlexTouch Between Patients
+
+WEGOVY FlexTouch must never be shared between patients, even if the needle is changed.
+Pen-sharing poses a risk for transmission of blood-borne pathogens.
