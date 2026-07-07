@@ -139,6 +139,8 @@ KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic
 
 KEYTRUDA is indicated for the treatment of patients with high-risk early-stage triple-negative breast cancer (TNBC) in combination with chemotherapy as neoadjuvant treatment, and then continued as a single agent as adjuvant treatment after surgery.
 
+KEYTRUDA, in combination with sacituzumab govitecan-hziy, is indicated for the first-line treatment of adult patients with unresectable locally advanced or metastatic TNBC whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
+
 KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of patients with locally recurrent unresectable or metastatic TNBC whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
 ## 1.21 Ovarian Cancer

@@ -37,6 +37,8 @@ For use of KEYTRUDA in combination with chemotherapy, with or without bevacizuma
 
 For the pMMR/not MSI-H advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA in combination with lenvatinib based on MMR or MSI status in tumor specimens [see Clinical Studies (14.17)].
 
+For use of KEYTRUDA in combination with sacituzumab govitecan-hziy, select patients based on the presence of positive PD-L1 expression in unresectable locally advanced or metastatic TNBC [see Clinical Studies (14.20)].
+
 For use of KEYTRUDA in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression in locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.20)].
 
 For use of KEYTRUDA in combination with paclitaxel, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal carcinoma [see Clinical Studies (14.21)].
@@ -69,6 +71,7 @@ Adult patients with Cervical Cancer | 200 mg every 3 weeks or 400 mg every 6 wee
 Adult patients with RCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with axitinib 5 mg orally twice dailyWhen axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer. or Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months
 Adult patients with Endometrial Carcinoma | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to carboplatin and paclitaxel when given on the same day. or Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months
 Adult patients with high-risk early-stage TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Neoadjuvant treatment in combination with chemotherapy for 24 weeks (8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks) or until disease progression or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as a single agent for up to 27 weeks (9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks) or until disease recurrence or unacceptable toxicityPatients who experience disease progression or unacceptable toxicity related to KEYTRUDA with neoadjuvant treatment in combination with chemotherapy should not receive adjuvant single agent KEYTRUDA.
+Adult patients with unresectable locally advanced or metastatic TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months
 Adult patients with locally recurrent unresectable or metastatic TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months
 Adult patients with Ovarian Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to paclitaxel with or without bevacizumab when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months
 Adjuvant treatment of adult patients with ccRCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with belzutifan 120 mg orally once daily. | Until disease recurrence, unacceptable toxicity, or up to 12 months
@@ -120,6 +123,12 @@ Recommended Dose Modifications for Adverse Reactions for KEYTRUDA in Combination
 When administering KEYTRUDA in combination with lenvatinib, modify the dosage of one or both drugs.
 Withhold or discontinue KEYTRUDA as shown in Table 2.
 Refer to lenvatinib prescribing information for additional dose modification information.
+
+Recommended Dose Modifications for Adverse Reactions for KEYTRUDA in Combination with Sacituzumab Govitecan-hziy
+
+Interrupt or discontinue one or both drugs of the combination or reduce the dose of sacituzumab govitecan-hziy to manage adverse reactions as appropriate.
+Refer to sacituzumab govitecan-hziy prescribing information for additional dose modification information.
+Withhold or discontinue KEYTRUDA as shown in Table 2.
 
 ## 2.4 Preparation and Administration
 

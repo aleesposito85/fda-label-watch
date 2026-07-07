@@ -68,6 +68,10 @@ No overall differences in safety or effectiveness were observed between elderly 
 Of 596 adult patients with TNBC who were treated with KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin in KEYNOTE-355, 137 (23%) were 65 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients.
 
+Of 221 adult patients with TNBC who were treated with KEYTRUDA in combination with sacituzumab govitecan-hziy in KEYNOTE-D19, 26% of patients were 65 years and over and 5% were 75 years and older.
+No overall differences in effectiveness were observed between elderly patients and younger patients.
+There was a higher rate of serious adverse reactions in patients aged 65 years or older (48%) compared with younger adult patients (34%).
+
 Of 406 adult patients with endometrial carcinoma who were treated with KEYTRUDA in combination with lenvatinib in KEYNOTE-775, 201 (50%) were 65 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients.
 

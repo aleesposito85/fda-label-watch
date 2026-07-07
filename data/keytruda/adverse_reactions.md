@@ -2067,6 +2067,24 @@ Hypocalcemia | 31 | 2.2 | 28 | 3.1
 Hypokalemia | 31 | 6 | 22 | 2.8
 Hypophosphatemia | 20 | 6 | 15 | 4.2
 
+Locally Advanced or Metastatic TNBC
+
+The safety of KEYTRUDA in combination with sacituzumab govitecan-hziy was evaluated in KEYNOTE-D19 in 221 patients with unresectable locally advanced or metastatic TNBC who had not been previously treated with systemic therapy for advanced disease and whose tumors express PD-L1, and who had received at least one dose of KEYTRUDA 200 mg every 3 weeks in combination with sacituzumab govitecan-hziy [see Clinical Studies (14.20)].
+The median duration of exposure to KEYTRUDA was 8.5 months (range: 1 day to 26.8 months).
+
+Fatal adverse reactions occurred in 3.2% of patients receiving KEYTRUDA in combination with sacituzumab govitecan-hziy, including death due to unknown cause (0.9%), and completed suicide, neutropenic sepsis, sepsis, pneumonia, and pulmonary embolism (0.5% each).
+
+Serious adverse reactions occurred in 38% of patients receiving KEYTRUDA in combination with sacituzumab govitecan-hziy.
+Serious adverse reactions in ≥2% of patients were febrile neutropenia (7%), neutropenia (6%), diarrhea (5%), fatigue and pneumonia (2.3% each).
+
+Permanent discontinuation of KEYTRUDA due to an adverse reaction occurred in 9% of patients.
+The adverse reactions which resulted in permanent discontinuation of KEYTRUDA most commonly (≥1%) were pneumonitis and rash (1.4% each).
+
+Dosage interruptions of KEYTRUDA due to adverse reactions occurred in 67% of patients.
+Adverse reactions which required dosage interruption in ≥2% of patients included neutropenia (36%), diarrhea (7%), upper respiratory tract infection (4.5%), anemia (4.1%), fatigue (4.1%), increased ALT (3.2%), cough (2.7%), leukopenia (2.7%), nausea (2.7%), pyrexia (2.7%), rash (2.7%), vomiting (2.7%), and COVID-19 (2.3%).
+
+The most common (≥25%) adverse reactions, including laboratory abnormalities, occurring in patients treated with KEYTRUDA in combination with sacituzumab govitecan-hziy were decreased neutrophil count and decreased hemoglobin (86% each), decreased leukocyte count (84%), diarrhea (72%), nausea (68%), decreased lymphocyte count (61%), fatigue (58%), alopecia (52%), increased alkaline phosphatase and increased glucose (50% each), increased alanine aminotransferase (47%), constipation (41%), increased aspartate aminotransferase (40%), rash (37%), decreased potassium (35%), increased lactate dehydrogenase (34%), vomiting (29%), abdominal pain, headache, and increased eosinophils (26% each), and decreased albumin (25%).
+
 Locally Recurrent Unresectable or Metastatic TNBC
 
 The safety of KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355, a multicenter, double-blind, randomized (2:1), placebo-controlled trial in patients with locally recurrent unresectable or metastatic TNBC who had not been previously treated with chemotherapy in the metastatic setting [see Clinical Studies (14.20)].
