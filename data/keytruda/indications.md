@@ -52,14 +52,14 @@ Limitations of Use: KEYTRUDA is not recommended for treatment of patients with P
 
 ## 1.7 Urothelial Cancer
 
-KEYTRUDA, in combination with enfortumab vedotin, is indicated for the treatment of adult patients with locally advanced or metastatic urothelial cancer.
+KEYTRUDA, in combination with enfortumab vedotin-ejfv, is indicated for the treatment of adult patients with locally advanced or metastatic urothelial cancer.
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma:
 
 - who are not eligible for any platinum-containing chemotherapy, or
 - who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
 
-KEYTRUDA, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after cystectomy as adjuvant treatment, is indicated for the treatment of adult patients with muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+KEYTRUDA, in combination with enfortumab vedotin-ejfv, as neoadjuvant treatment and then continued after cystectomy as adjuvant treatment, is indicated for the treatment of adult patients with muscle invasive bladder cancer (MIBC).
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with Bacillus Calmette-Guerin (BCG)-unresponsive, high-risk, non-muscle invasive bladder cancer (NMIBC) with carcinoma in situ (CIS) with or without papillary tumors who are ineligible for or have elected not to undergo cystectomy.
 

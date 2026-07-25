@@ -314,7 +314,7 @@ The safety of KEYTRUDA was investigated in KEYNOTE-010, a multicenter, open-labe
 A total of 991 patients received KEYTRUDA 2 mg/kg (n=339) or 10 mg/kg (n=343) every 3 weeks or docetaxel (n=309) at 75 mg/m2every 3 weeks.
 Patients with autoimmune disease, medical conditions that required systemic corticosteroids or other immunosuppressive medication, or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 
-The median duration of exposure to KEYTRUDA 2 mg/kg every 3 weeks was 3.5 months (range: 1 day to 22.4 months) and to KEYTRUDA 10 mg/kg every 3 weeks was 3.5 months (range 1 day to 20.8 months).
+The median duration of exposure to KEYTRUDA 2 mg/kg every 3 weeks was 3.5 months (range: 1 day to 22.4 months) and to KEYTRUDA 10 mg/kg every 3 weeks was 3.5 months (range: 1 day to 20.8 months).
 The data described below reflect exposure to KEYTRUDA 2 mg/kg in 31% of patients exposed to KEYTRUDA for ≥6 months.
 In the KEYTRUDA 10 mg/kg arm, 34% of patients were exposed to KEYTRUDA for ≥6 months.
 
@@ -793,16 +793,16 @@ Increased creatinine | 16 | 0
 
 Urothelial Cancer
 
-Patients with urothelial cancer in combination with enfortumab vedotin
+Patients with urothelial cancer in combination with enfortumab vedotin-ejfv
 
-The safety of KEYTRUDA in combination with enfortumab vedotin was investigated in KEYNOTE-A39 in patients with locally advanced or metastatic urothelial cancer [see Clinical Studies (14.7)].
-A total of 440 patients received KEYTRUDA 200 mg on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle compared to 433 patients who received gemcitabine on Days 1 and 8 and investigator’s choice of cisplatin or carboplatin on Day 1 of each 21-day cycle.
-Among patients who received KEYTRUDA and enfortumab vedotin, the median duration of exposure to KEYTRUDA was 8.5 months (range: 9 days to 28.5 months).
+The safety of KEYTRUDA in combination with enfortumab vedotin-ejfv was investigated in KEYNOTE-A39 in patients with locally advanced or metastatic urothelial cancer [see Clinical Studies (14.7)].
+A total of 440 patients received KEYTRUDA 200 mg on Day 1 and enfortumab vedotin-ejfv 1.25 mg/kg on Days 1 and 8 of each 21-day cycle compared to 433 patients who received gemcitabine on Days 1 and 8 and investigator’s choice of cisplatin or carboplatin on Day 1 of each 21-day cycle.
+Among patients who received KEYTRUDA and enfortumab vedotin-ejfv, the median duration of exposure to KEYTRUDA was 8.5 months (range: 9 days to 28.5 months).
 
-Fatal adverse reactions occurred in 3.9% of patients treated with KEYTRUDA in combination with enfortumab vedotin including acute respiratory failure (0.7%), pneumonia (0.5%), and pneumonitis/ILD (0.2%).
+Fatal adverse reactions occurred in 3.9% of patients treated with KEYTRUDA in combination with enfortumab vedotin-ejfv including acute respiratory failure (0.7%), pneumonia (0.5%), and pneumonitis/ILD (0.2%).
 
-Serious adverse reactions occurred in 50% of patients receiving KEYTRUDA in combination with enfortumab vedotin.
-Serious adverse reactions in ≥2% of patients receiving KEYTRUDA in combination with enfortumab vedotin were rash (6%), acute kidney injury (5%), pneumonitis/ILD (4.5%), urinary tract infection (3.6%), diarrhea (3.2%), pneumonia (2.3%), pyrexia (2%), and hyperglycemia (2%).
+Serious adverse reactions occurred in 50% of patients receiving KEYTRUDA in combination with enfortumab vedotin-ejfv.
+Serious adverse reactions in ≥2% of patients receiving KEYTRUDA in combination with enfortumab vedotin-ejfv were rash (6%), acute kidney injury (5%), pneumonitis/ILD (4.5%), urinary tract infection (3.6%), diarrhea (3.2%), pneumonia (2.3%), pyrexia (2%), and hyperglycemia (2%).
 
 Permanent discontinuation of KEYTRUDA occurred in 27% of patients.
 The most common adverse reactions (≥2%) resulting in permanent discontinuation of KEYTRUDA were pneumonitis/ILD (4.8%) and rash (3.4%).
@@ -810,9 +810,9 @@ The most common adverse reactions (≥2%) resulting in permanent discontinuation
 Dose interruptions of KEYTRUDA occurred in 61% of patients.
 The most common adverse reactions (≥2%) resulting in interruption of KEYTRUDA were rash (17%), peripheral neuropathy (7%), COVID-19 (5%), diarrhea (4.3%), pneumonitis/ILD (3.6%), neutropenia (3.4%), fatigue (3%), alanine aminotransferase increased (2.7%), hyperglycemia (2.5%), pneumonia (2%), and pruritus (2%).
 
-Tables 26 and 27 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with enfortumab vedotin in KEYNOTE-A39.
+Tables 26 and 27 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with enfortumab vedotin-ejfv in KEYNOTE-A39.
 
-Adverse Reaction | KEYTRUDA in combination with Enfortumab Vedotin n=440 | Chemotherapy n=433
+Adverse Reaction | KEYTRUDA in combination with Enfortumab Vedotin-ejfv n=440 | Chemotherapy n=433
 All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 %
 Skin and subcutaneous tissue disorders
 RashIncludes multiple terms | 68 | 15 | 15 | 0
@@ -838,7 +838,7 @@ Urinary tract infection | 21 | 5 | 19 | 8
 
 Clinically relevant adverse reactions (<20%) include pyrexia (18%), dry skin (17%), vomiting (12%), pneumonitis/ILD (10%), hypothyroidism (10%), blurred vision (6%), infusion site extravasation (2%), and myositis (0.5%).
 
-Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 407 to 439 patients) | KEYTRUDA 200 mg every 3 weeks and Enfortumab Vedotin | Chemotherapy
+Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 407 to 439 patients) | KEYTRUDA 200 mg every 3 weeks and Enfortumab Vedotin-ejfv | Chemotherapy
 All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 %
 Chemistry
 Increased aspartate aminotransferase | 75 | 4.6 | 39 | 3.3
@@ -856,16 +856,16 @@ Lymphopenia | 58 | 15 | 59 | 17
 Anemia | 53 | 7 | 89 | 33
 Neutropenia | 30 | 9 | 80 | 50
 
-Cisplatin-ineligible patients with urothelial cancer in combination with enfortumab vedotin
+Cisplatin-ineligible patients with urothelial cancer in combination with enfortumab vedotin-ejfv
 
-The safety of KEYTRUDA in combination with enfortumab vedotin was investigated in KEYNOTE-869 in patients with locally advanced or metastatic urothelial cancer and who are not eligible for cisplatin-based chemotherapy [see Clinical Studies (14.7)].
-A total of 121 patients received KEYTRUDA 200 mg on Day 1, and enfortumab vedotin 1.25 mg/kg on days 1 and 8 of each 21-day cycle.
-The median duration of exposure to KEYTRUDA was 6.9 months (range 1 day to 29.6 months).
+The safety of KEYTRUDA in combination with enfortumab vedotin-ejfv was investigated in KEYNOTE-869 in patients with locally advanced or metastatic urothelial cancer and who are not eligible for cisplatin-based chemotherapy [see Clinical Studies (14.7)].
+A total of 121 patients received KEYTRUDA 200 mg on Day 1, and enfortumab vedotin-ejfv 1.25 mg/kg on days 1 and 8 of each 21-day cycle.
+The median duration of exposure to KEYTRUDA was 6.9 months (range: 1 day to 29.6 months).
 
-Fatal adverse reactions occurred in 5% of patients treated with KEYTRUDA in combination with enfortumab vedotin, including sepsis (1.6%), bullous dermatitis (0.8%), myasthenia gravis (0.8%), and pneumonitis (0.8%).
+Fatal adverse reactions occurred in 5% of patients treated with KEYTRUDA in combination with enfortumab vedotin-ejfv, including sepsis (1.6%), bullous dermatitis (0.8%), myasthenia gravis (0.8%), and pneumonitis (0.8%).
 
-Serious adverse reactions occurred in 50% of patients receiving KEYTRUDA and enfortumab vedotin.
-Serious adverse reactions in ≥2% of patients receiving KEYTRUDA in combination with enfortumab vedotin were acute kidney injury (7%), urinary tract infection (7%), urosepsis (5%), hematuria (3.3%), pneumonia (3.3%), pneumonitis (3.3%), sepsis (3.3%), anemia (2.5%), diarrhea (2.5%), hypotension (2.5%), myasthenia gravis (2.5%), myositis (2.5%), and urinary retention (2.5%).
+Serious adverse reactions occurred in 50% of patients receiving KEYTRUDA and enfortumab vedotin-ejfv.
+Serious adverse reactions in ≥2% of patients receiving KEYTRUDA in combination with enfortumab vedotin-ejfv were acute kidney injury (7%), urinary tract infection (7%), urosepsis (5%), hematuria (3.3%), pneumonia (3.3%), pneumonitis (3.3%), sepsis (3.3%), anemia (2.5%), diarrhea (2.5%), hypotension (2.5%), myasthenia gravis (2.5%), myositis (2.5%), and urinary retention (2.5%).
 
 Permanent discontinuation of KEYTRUDA occurred in 32% of patients.
 The most common adverse reactions (≥2%) resulting in permanent discontinuation of KEYTRUDA were pneumonitis (5%), peripheral neuropathy (5%), rash (3.3%), and myasthenia gravis (2.5%).
@@ -873,9 +873,9 @@ The most common adverse reactions (≥2%) resulting in permanent discontinuation
 Dose interruptions of KEYTRUDA occurred in 69% of patients.
 The most common adverse reactions (≥2%) resulting in interruption of KEYTRUDA were peripheral neuropathy (22%), rash (17%), neutropenia (7%), fatigue (6%), diarrhea (5%), lipase increased (5%), acute kidney injury (3.3%), ALT increased (2.5%), and COVID-19 (2.5%).
 
-Tables 28 and 29 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with enfortumab vedotin in KEYNOTE-869.
+Tables 28 and 29 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with enfortumab vedotin-ejfv in KEYNOTE-869.
 
-Adverse Reaction | KEYTRUDA in combination with Enfortumab Vedotin n=121
+Adverse Reaction | KEYTRUDA in combination with Enfortumab Vedotin-ejfv n=121
 All GradesGraded per NCI CTCAE v4.03 % | Grade 3-4 %
 Skin and subcutaneous tissue disorders
 RashIncludes: blister, conjunctivitis, dermatitis, dermatitis bullous, dermatitis exfoliative generalized, erythema, erythema multiforme, exfoliative rash, palmar-plantar erythrodysesthesia syndrome, pemphigoid, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular, skin exfoliation, and stomatitis | 71 | 21
@@ -906,7 +906,7 @@ Arthralgia | 23 | 1.7
 
 Clinically relevant adverse reactions (<20%) include vomiting (19.8%), fever (18%), hypothyroidism (11%), pneumonitis/ILD (10%), myositis (3.3%), myasthenia gravis (2.5%), and infusion site extravasation (0.8%).
 
-Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 114 to 121 patients) | KEYTRUDA 200 mg every 3 weeks and Enfortumab Vedotin
+Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 114 to 121 patients) | KEYTRUDA 200 mg every 3 weeks and Enfortumab Vedotin-ejfv
 All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 %
 Chemistry
 Hyperglycemia | 74 | 13
@@ -1035,18 +1035,106 @@ Increased AST | 28 | 4.1 | 20 | 2.5
 Hyperkalemia | 28 | 0.8 | 27 | 6
 Hypocalcemia | 26 | 1.6 | 34 | 2.1
 
-Neoadjuvant and Adjuvant Treatment of Cisplatin-Ineligible Patients with MIBC in Combination with Enfortumab Vedotin
+Neoadjuvant and Adjuvant Treatment of Patients Who are Cisplatin-Eligible with MIBC in Combination with Enfortumab Vedotin-ejfv
 
-The safety of KEYTRUDA in combination with enfortumab vedotin as neoadjuvant treatment and continued after radical cystectomy (RC) as adjuvant treatment was investigated in KEYNOTE-905, an open-label, multicenter, randomized, active-controlled trial in patients with previously untreated MIBC who were ineligible for or declined cisplatin-based chemotherapy.
-Patients received KEYTRUDA in combination with enfortumab vedotin (n=167) before and after RC with pelvic lymph node dissection (PLND) or RC with PLND alone (n=159) [see Clinical Studies (14.7)].
+The safety of KEYTRUDA in combination with enfortumab vedotin-ejfv as neoadjuvant treatment and continued after radical cystectomy (RC) as adjuvant treatment was investigated in KEYNOTE-B15, an open-label, multicenter, randomized, active-controlled trial in patients with previously untreated MIBC who were eligible for cisplatin-based chemotherapy.
+Patients received KEYTRUDA in combination with enfortumab vedotin-ejfv (n=403) before and after RC with pelvic lymph node dissection (PLND) or chemotherapy (gemcitabine with cisplatin) before RC with PLND followed by observation (n=396) [see Clinical Studies (14.7)].
+
+For the 403 patients who received KEYTRUDA in the neoadjuvant phase, the median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 2.1 months (range: 1 day to 3.9 months) and the median number of cycles of KEYTRUDA was 4 (range: 1 to 4) out of the planned 4 cycles in the neoadjuvant phase.
+For the 262 patients randomized to receive KEYTRUDA in combination with enfortumab vedotin-ejfv and who received any adjuvant treatment, 249 patients received KEYTRUDA in the adjuvant phase.
+The median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 8.3 months (range: 1 day to 18.9 months) and the median number of cycles of KEYTRUDA was 13 (range: 1 to 13) out of the planned 13 cycles for patients who received KEYTRUDA in the adjuvant phase.
+Across the combined neoadjuvant and adjuvant phases (n=403), the median number of cycles of KEYTRUDA was 10 (range: 1 to 17) out of the planned 17 cycles.
+Tables 33 and 34 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with enfortumab vedotin-ejfv in KEYNOTE-B15.
+
+Adverse Reaction | Perioperative KEYTRUDA 200 mg every 3 weeks in combination with Enfortumab Vedotin-ejfv n=403 | Neoadjuvant Gemcitabine with Cisplatin n=396
+All GradesGraded per NCI CTCAE v5.0 % | Grade 3-4 % | All Grades % | Grade 3-4 %
+Skin and subcutaneous tissue disorders
+RashIncludes multiple terms. | 63 | 12 | 9 | 0.3
+Pruritus | 46 | 3.2 | 4.5 | 0
+Alopecia | 32 | 0.5 | 11 | 0
+General disorders and administration site conditions
+Fatigue | 48 | 2.7 | 49 | 2.3
+Nervous system disorders
+Peripheral neuropathy | 43 | 3 | 11 | 0.8
+Dysgeusia | 28 | 0.2 | 10 | 0
+Gastrointestinal disorders
+Diarrhea | 36 | 3.2 | 16 | 1.3
+Nausea | 28 | 1 | 47 | 0.5
+Constipation | 27 | 0.7 | 37 | 0.5
+Metabolism and nutrition disorders
+Decreased appetite | 29 | 1 | 18 | 0.5
+Hyperglycemia | 20 | 7 | 7 | 0.8
+Infections and infestations
+Urinary tract infection | 25 | 10 | 21 | 10
+Eye Disorders
+Dry eye | 25 | 0 | 1.3 | 0
+Investigations
+Weight loss | 22 | 2.5 | 6 | 0.3
+
+Clinically relevant adverse reactions (<20%) include dry skin (16%), vomiting (13%), hypothyroidism (12%), pneumonitis/ILD (8%), skin hyperpigmentation (3.5%), myositis (0.7%), infusion site extravasation (0.5%), and myasthenia gravis (0.2%).
+
+Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA in combination with enfortumab vedotin-ejfv (range: 399 to 403 patients), and chemotherapy alone (range: 388 to 393 patients). | Perioperative KEYTRUDA 200 mg every 3 weeks in combination with Enfortumab Vedotin-ejfv n=403 | Neoadjuvant Gemcitabine with Cisplatin n=396
+All GradesGraded per NCI CTCAE v5.0 % | Grades 3-4 % | All Grades % | Grades 3-4 %
+ALT = alanine aminotransferase; AST = aspartate aminotransferase.
+Hematology
+Decreased hemoglobin | 70 | 8 | 92 | 20
+Decreased lymphocytes | 52 | 17 | 46 | 11
+Decreased neutrophils | 32 | 13 | 75 | 40
+Chemistry
+Increased AST | 69 | 7 | 23 | 0.5
+Increased ALT | 67 | 8 | 30 | 0
+Increased creatinine | 49 | 8 | 53 | 6
+Decreased sodium | 43 | 4.2 | 39 | 1.3
+Decreased albumin | 42 | 3.3 | 36 | 1.8
+Increased potassium | 35 | 4.7 | 31 | 5
+Decreased potassium | 22 | 3 | 20 | 2.8
+
+Neoadjuvant Phase of KEYNOTE-B15
+
+A total of 403 patients received at least 1 dose of KEYTRUDA in combination with enfortumab vedotin-ejfv as neoadjuvant treatment before receiving RC.
+
+In the neoadjuvant phase, serious adverse reactions occurred in 27% of patients who received KEYTRUDA in combination with enfortumab vedotin-ejfv.
+The most frequent (≥1.5%) serious adverse reactions were rash (3.2%), pneumonitis/ILD (2.2%), and diarrhea (1.7%).
+Fatal adverse reactions occurred in 1.7% of patients, including multiple organ dysfunction syndrome (0.5%), and COVID-19 pneumonia, cardiac arrest, pneumonia, septic shock, and urosepsis (0.2% each).
+Additional fatal adverse reactions were reported in 2 patients in the post-surgery phase before adjuvant treatment started, including pneumonia and sepsis (1 patient each).
+
+Permanent discontinuation of KEYTRUDA in the neoadjuvant phase due to an adverse reaction occurred in 17% of patients.
+The most frequent (>1%) adverse reactions resulting in permanent discontinuation of KEYTRUDA were rash (2.2%), increased ALT and pneumonitis/ILD (1.7% each), and hepatitis (1.2%).
+
+Adverse reactions leading to dose interruption of KEYTRUDA in the neoadjuvant phase occurred in 29% of patients.
+The most common adverse reactions (≥2%) leading to dose interruption of KEYTRUDA were rash (8%), increased ALT (3.7%), neutropenia (3.2%), and hyperglycemia (2.5%).Of the 403 patients in the KEYTRUDA in combination with enfortumab vedotin-ejfv arm who received neoadjuvant treatment, 13 patients (3.2%) did not receive surgery due to adverse reactions.
+The adverse reactions that led to cancellation of surgery were multiple organ dysfunction syndrome (0.5%) and adenocarcinoma of colon, COVID-19 pneumonia, cardiac arrest, chronic obstructive pulmonary disease, coronary artery disease, glomerulonephritis, immune-mediated lung disease, myocarditis, pneumonia, pneumonitis and urosepsis (0.2% each).
+
+Of the 351 patients who received neoadjuvant treatment with KEYTRUDA in combination with enfortumab vedotin-ejfv and underwent radical cystectomy, 26 (7%) patients experienced delay of surgery (defined as time from last neoadjuvant treatment to surgery exceeding 8 weeks) due to adverse reactions.
+
+Adjuvant Phase of KEYNOTE-B15
+
+Patients who did not proceed to surgery were ineligible for adjuvant therapy.
+Of the 351 patients who received neoadjuvant treatment and underwent surgery, 249 patients received adjuvant treatment with KEYTRUDA with or without enfortumab vedotin-ejfv.
+Of the 102 patients who did not receive adjuvant KEYTRUDA, discontinuation of KEYTRUDA prior to the adjuvant phase was due to an adverse event in 57 patients.
+
+In the adjuvant phase, serious adverse reactions occurred in 35% of patients who received KEYTRUDA in the adjuvant phase; the most frequent (≥1.5%) serious adverse reactions were urinary tract infection (8%), sepsis (2.8%), diarrhea, hyperglycemia, and pneumonitis/ILD (1.6% each).
+Fatal adverse reactions occurred in 3.2% of patients who received KEYTRUDA in the adjuvant phase, including death (0.8%) and cardiac arrest, duodenal ulcer perforation, acute pancreatitis, renal failure, small cell lung cancer and toxic shock syndrome (0.4% each).
+
+Permanent discontinuation of KEYTRUDA due to an adverse reaction occurred in 23% of patients who received KEYTRUDA in the adjuvant phase.
+The most frequent (>1%) adverse reactions resulting in permanent discontinuation of KEYTRUDA were diarrhea and pneumonitis/ILD (2.4% each), rash (2%), and hyperglycemia and sepsis (1.2% each).
+
+Adverse reactions leading to dose interruption of KEYTRUDA in the adjuvant phase occurred in 39% of patients who received KEYTRUDA in the adjuvant phase.
+The most common adverse reactions (≥2%) leading to dose interruption of KEYTRUDA were diarrhea (6%), urinary tract infection (5%), COVID-19 (3.6%), rash (2.8%), and nausea (2%).
+
+Neoadjuvant and Adjuvant Treatment of Patients Who are Cisplatin-Ineligible with MIBC in Combination with Enfortumab Vedotin-ejfv
+
+The safety of KEYTRUDA in combination with enfortumab vedotin-ejfv as neoadjuvant treatment and continued after radical cystectomy (RC) as adjuvant treatment was investigated in KEYNOTE-905, an open-label, multicenter, randomized, active-controlled trial in patients with previously untreated MIBC who were ineligible for or declined cisplatin-based chemotherapy.
+Patients received KEYTRUDA in combination with enfortumab vedotin-ejfv (n=167) before and after RC with pelvic lymph node dissection (PLND) or RC with PLND alone (n=159) [see Clinical Studies (14.7)].
 
 For the 167 patients who received KEYTRUDA in the neoadjuvant phase, the median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 1.4 months (range: 1 day to 2.7 months) and the median number of cycles of KEYTRUDA was 3 (range: 1 to 3) out of the planned 3 cycles in the neoadjuvant phase.
-For the 96 patients who received KEYTRUDA in the adjuvant phase, the median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 8.5 months (range: 1 day to 12.9 months) and the median number of cycles of KEYTRUDA was 12 (range: 1 to 14) out of the planned 14 cycles in the adjuvant phase.
+For the 100 patients randomized to receive KEYTRUDA in combination with enfortumab vedotin-ejfv and who received any adjuvant treatment, 96 patients received KEYTRUDA in the adjuvant phase.
+The median duration of exposure to KEYTRUDA 200 mg every 3 weeks was 8.5 months (range: 1 day to 12.9 months) and the median number of cycles of KEYTRUDA was 12 (range: 1 to 14) out of the planned 14 cycles for patients who received KEYTRUDA in the adjuvant phase.
 Across the combined neoadjuvant and adjuvant phases (n=167), the median number of cycles of KEYTRUDA was 5 (range: 1 to 17) out of the planned 17 cycles.
 
-Tables 33 and 34 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with enfortumab vedotin in KEYNOTE-905.
+Tables 35 and 36 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with enfortumab vedotin-ejfv in KEYNOTE-905.
 
-Adverse Reaction | KEYTRUDA 200 mg every 3 weeks in combination with enfortumab vedotin before and after RC with PLND n=167 | RC with PLND alone n=159
+Adverse Reaction | KEYTRUDA 200 mg every 3 weeks in combination with enfortumab vedotin-ejfv before and after RC with PLND n=167 | RC with PLND alone n=159
 All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 %
 Skin and subcutaneous tissue disorders
 RashIncludes multiple terms. , Includes rash, rash maculo-papular, conjunctivitis, erythema, eczema, skin exfoliation, palmar-plantar erythrodysesthesia syndrome, blister, dermatitis, dermatitis exfoliative generalized, exfoliative rash, rash papular, rash pruritic, dermatitis bullous, drug eruption, pemphigoid, rash vesicular, and dermatitis contact. | 54 | 7 | 1.3 | 0
@@ -1072,7 +1160,7 @@ Weight loss | 20 | 0 | 3.1 | 0
 
 Clinically relevant adverse reactions (<20%) include dry skin (15%), hypothyroidism (14%), vomiting (9%), pneumonitis/ILD (4.2%), skin hyperpigmentation (3.0%), infusion site extravasation (1.2%), and myasthenia gravis and myositis (0.6% each).
 
-Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA in combination with enfortumab vedotin (167 patients), and RC and PLND alone (range: 110 to 121 patients). | KEYTRUDA 200 mg every 3 weeks in combination with enfortumab vedotin before and after RC with PLND n=167 | RC with PLND alone n=159
+Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA in combination with enfortumab vedotin-ejfv (167 patients), and RC and PLND alone (range: 110 to 121 patients). | KEYTRUDA 200 mg every 3 weeks in combination with enfortumab vedotin-ejfv before and after RC with PLND n=167 | RC with PLND alone n=159
 All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 %
 ALT = alanine aminotransferase; AST = aspartate aminotransferase.
 Chemistry
@@ -1089,9 +1177,9 @@ Decreased lymphocytes | 40 | 8 | 17 | 1.7
 
 Neoadjuvant Phase of KEYNOTE-905
 
-A total of 167 patients received at least 1 dose of KEYTRUDA in combination with enfortumab vedotin as neoadjuvant treatment before receiving RC.
+A total of 167 patients received at least 1 dose of KEYTRUDA in combination with enfortumab vedotin-ejfv as neoadjuvant treatment before receiving RC.
 
-In the neoadjuvant phase, serious adverse reactions occurred in 27% of patients receiving KEYTRUDA in combination with enfortumab vedotin.
+In the neoadjuvant phase, serious adverse reactions occurred in 27% of patients receiving KEYTRUDA in combination with enfortumab vedotin-ejfv.
 The most frequent (≥2%) serious adverse reactions were urinary tract infection (3.6%) and hematuria (2.4%).
 Fatal adverse reactions occurred in 1.2% of patients, including myasthenia gravis and toxic epidermal necrolysis (0.6% each).
 Additional fatal adverse reactions were reported in 2.7% of patients in the post-surgery phase before adjuvant treatment started, including sepsis and intestinal obstruction (1.4% each).
@@ -1101,24 +1189,24 @@ The most frequent (>1%) adverse reactions resulting in permanent discontinuation
 
 Adverse reactions leading to dose interruption of KEYTRUDA in the neoadjuvant phase occurred in 20% of patients.
 The most common adverse reactions (≥2%) leading to dose interruption of KEYTRUDA were rash (4.8%) and neutropenia (2.4%).
-Of the 167 patients in the KEYTRUDA in combination with enfortumab vedotin arm who received neoadjuvant treatment, 7 (4.2%) patients did not receive surgery due to adverse reactions.
+Of the 167 patients in the KEYTRUDA in combination with enfortumab vedotin-ejfv arm who received neoadjuvant treatment, 7 (4.2%) patients did not receive surgery due to adverse reactions.
 The adverse reactions that led to cancellation of surgery were acute myocardial infarction, bile duct cancer, colon cancer, respiratory distress, urinary tract infection, and the two deaths due to myasthenia gravis and toxic epidermal necrolysis (0.6% each).
 
-Of the 146 patients who received neoadjuvant treatment with KEYTRUDA in combination with enfortumab vedotin and underwent radical cystectomy, 6 (4.1%) patients experienced delay of surgery (defined as time from last neoadjuvant treatment to surgery exceeding 8 weeks) due to adverse reactions.
+Of the 146 patients who received neoadjuvant treatment with KEYTRUDA in combination with enfortumab vedotin-ejfv and underwent radical cystectomy, 6 (4.1%) patients experienced delay of surgery (defined as time from last neoadjuvant treatment to surgery exceeding 8 weeks) due to adverse reactions.
 
 Adjuvant Phase of KEYNOTE-905
 
 Patients who did not proceed to surgery were ineligible for adjuvant therapy.
-Of the 149 patients who underwent surgery, 100 patients received adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin.
-Of the 49 patients who did not receive adjuvant treatment, discontinuation of treatment prior to the adjuvant phase was due to an adverse event in 21 patients.
+Of the 146 patients who received neoadjuvant treatment and underwent surgery, 96 patients received adjuvant treatment with KEYTRUDA with or without enfortumab vedotin-ejfv.
+Of the 50 patients who did not receive adjuvant KEYTRUDA, discontinuation of KEYTRUDA prior to the adjuvant phase was due to an adverse event in 19 patients.
 
-In the adjuvant phase, serious adverse reactions occurred in 43% of patients; the most frequent (≥2%) serious adverse reactions were urinary tract infection (8%), acute kidney injury and pyelonephritis (5% each), urosepsis (4%), and hypokalemia, intestinal obstruction, and sepsis (2% each).
-Fatal adverse reactions occurred in 7% of patients, including urosepsis, intracranial hemorrhage, death, myocardial infarction, multiple organ dysfunction syndrome, and pseudomonal pneumonia (1% each).
+In the adjuvant phase, serious adverse reactions occurred in 45% of patients who received KEYTRUDA in the adjuvant phase; the most frequent (≥2%) serious adverse reactions were urinary tract infection (8%), acute kidney injury and pyelonephritis (5% each), urosepsis (4.2%), and hypokalemia, intestinal obstruction, and sepsis (2.1% each).
+Fatal adverse reactions occurred in 7% of patients who received KEYTRUDA in the adjuvant phase, including urosepsis, intracranial hemorrhage, death, myocardial infarction, multiple organ dysfunction syndrome, and pseudomonal pneumonia (1% each).
 
-Permanent discontinuation of KEYTRUDA due to an adverse reaction occurred in 28% of patients.
-The most frequent (>1%) adverse reactions resulting in permanent discontinuation of KEYTRUDA were diarrhea (5%), and peripheral neuropathy, acute kidney injury, and pneumonitis (2% each).
+Permanent discontinuation of KEYTRUDA due to an adverse reaction occurred in 29% of patients who received KEYTRUDA in the adjuvant phase.
+The most frequent (>2%) adverse reactions resulting in permanent discontinuation of KEYTRUDA were diarrhea (5%), and peripheral neuropathy, acute kidney injury, and pneumonitis (2% each).
 
-Adverse reactions leading to dose interruption of KEYTRUDA in the adjuvant phase occurred in 38% of patients.
+Adverse reactions leading to dose interruption of KEYTRUDA in the adjuvant phase occurred in 40% of patients who received KEYTRUDA in the adjuvant phase.
 The most common adverse reactions (≥2%) leading to dose interruption of KEYTRUDA were rash (7%), urinary tract infection (6%), diarrhea (4%), and abdominal pain, COVID-19, fatigue, pruritus, and pyelonephritis (2% each).
 
 BCG-unresponsive High-risk NMIBC
@@ -1133,7 +1221,7 @@ The most common adverse (>1%) reaction resulting in permanent discontinuation of
 Adverse reactions leading to interruption of KEYTRUDA occurred in 22% of patients; the most common (≥2%) were diarrhea (4%) and urinary tract infection (2%).
 Serious adverse reactions occurred in 28% of KEYTRUDA-treated patients.
 The most frequent serious adverse reactions (≥2%) in KEYTRUDA-treated patients were pneumonia (3%), cardiac ischemia (2%), colitis (2%), pulmonary embolism (2%), sepsis (2%), and urinary tract infection (2%).
-Tables 35 and 36 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-057.
+Tables 37 and 38 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-057.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks N=148
 All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3–4 (%)
@@ -1236,7 +1324,7 @@ Adverse reaction resulting in permanent discontinuation of KEYTRUDA in ≥1% wer
 Dosage interruptions of KEYTRUDA due to an adverse reaction occurred in 65% of patients.
 Adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were neutropenia (21%), thrombocytopenia (13%), diarrhea (5.5%), fatigue (4.8%), infection (4.8%), anemia (4.5%), increased AST (4.3%), increased ALT (3.8%), increased blood bilirubin (3.3%), white blood cell count decreased (2.2%), nausea (2%), palmar-plantar erythrodysesthesia syndrome (2%), and vomiting (2%).
 
-Tables 37 and 38 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-859.
+Tables 39 and 40 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-859.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and FP or CAPOX n=785 | Placebo and FP or CAPOX n=787
 All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%)
@@ -1295,7 +1383,7 @@ The most common adverse reactions resulting in permanent discontinuation of KEYT
 Adverse reactions leading to interruption of KEYTRUDA occurred in 67% of patients.
 The most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were neutropenia (19%), fatigue/asthenia (8%), decreased white blood cell count (5%), pneumonia (5%), decreased appetite (4.3%), anemia (3.2%), increased blood creatinine (3.2%), stomatitis (3.2%), malaise (3.0%), thrombocytopenia (3%), pneumonitis (2.7%), diarrhea (2.4%), dysphagia (2.2%), and nausea (2.2%).
 
-Tables 39 and 40 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-590.
+Tables 41 and 42 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-590.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks Cisplatin FU n=370 | Placebo Cisplatin FU n=370
 All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4One fatal event of diarrhea was reported in each arm. (%) | All Grades (%) | Grades 3-4 (%)
@@ -1358,7 +1446,7 @@ The most common adverse reaction (≥1%) resulting in permanent discontinuation 
 
 Adverse reactions leading to interruption of KEYTRUDA occurred in 47% of patients; the most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were anemia (7%), COVID-19 (7%), SARS-CoV-2 test positive (4.8%), diarrhea (4.1%), increased ALT (4.1%), increased AST (3.4%) decreased neutrophil count (3.1%), and urinary tract infection (2.7%).
 
-Table 41 and Table 42 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-A18.
+Table 43 and Table 44 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-A18.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and 400 mg every 6 weeks with chemoradiotherapy n=294 | Placebo with chemoradiotherapy n=303
 All GradesGraded per NCI CTCAE v5.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%)
@@ -1429,7 +1517,7 @@ Adverse reactions leading to interruption of KEYTRUDA occurred in 66% of patient
 
 For patients treated with KEYTRUDA, chemotherapy, and bevacizumab (n=196), the most common (≥20%) adverse reactions were peripheral neuropathy (62%), alopecia (58%), anemia (55%), fatigue/asthenia (53%), nausea (41%), neutropenia (41%), diarrhea (39%), hypertension (35%), thrombocytopenia (35%), constipation (31%), arthralgia (31%), vomiting (30%), urinary tract infection (27%), rash (26%), leukopenia (24%), hypothyroidism (22%), and decreased appetite (21%).
 
-Table 43 and Table 44 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-826.
+Table 45 and Table 46 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-826.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and chemotherapyChemotherapy (paclitaxel and cisplatin or paclitaxel and carboplatin) with or without bevacizumab n=307 | Placebo and chemotherapy with or without bevacizumab n=309
 All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%)
@@ -1481,7 +1569,7 @@ Patients with autoimmune disease or a medical condition that required immunosupp
 KEYTRUDA was discontinued due to adverse reactions in 8% of patients.
 Serious adverse reactions occurred in 39% of patients receiving KEYTRUDA.
 The most frequent serious adverse reactions reported included anemia (7%), fistula (4.1%), hemorrhage (4.1%), and infections [except UTIs] (4.1%).
-Tables 45 and 46 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-158.
+Tables 47 and 48 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-158.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks N=98
  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%)
@@ -1544,7 +1632,7 @@ KEYTRUDA was discontinued due to adverse reactions in 13% of patients.
 The most common adverse reaction resulting in permanent discontinuation of KEYTRUDA was ascites (2.3%).
 Adverse reactions leading to interruption of KEYTRUDA occurred in 26% of patients; the most common adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were increased blood bilirubin (9%), increased AST (5%), and increased ALT (2%).
 
-Tables 47 and 48 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-394.
+Tables 49 and 50 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-394.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks n=299 | Placebo n=153
 All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-5 (%) | All Grades (%) | Grades 3-5 (%)
@@ -1610,7 +1698,7 @@ There were no clinically meaningful differences in incidence of Grade 3-4 toxici
 
 MCC
 
-Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.15)], the median duration of exposure to KEYTRUDA was 6.3 months (range 1 day to 28 months).
+Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.15)], the median duration of exposure to KEYTRUDA was 6.3 months (range: 1 day to 28 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included increased lipase (17%).
@@ -1644,7 +1732,7 @@ The most common adverse reactions (≥20%) in patients receiving KEYTRUDA and ax
 
 Twenty-seven percent (27%) of patients treated with KEYTRUDA in combination with axitinib received an oral prednisone dose equivalent to ≥40 mg daily for an immune-mediated adverse reaction.
 
-Tables 49 and 50 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in at least 20% of patients treated with KEYTRUDA and axitinib in KEYNOTE-426.
+Tables 51 and 52 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in at least 20% of patients treated with KEYTRUDA and axitinib in KEYNOTE-426.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and Axitinib n=429 | Sunitinib n=425
 All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%)
@@ -1711,7 +1799,7 @@ The most common adverse reactions (≥3%) resulting in interruption of KEYTRUDA 
 
 Fifteen percent (15%) of patients treated with KEYTRUDA in combination with lenvatinib received an oral prednisone equivalent to ≥40 mg daily for an immune-mediated adverse reaction.
 
-Tables 51 and 52 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in ≥20% of patients treated with KEYTRUDA and lenvatinib in KEYNOTE-581.
+Tables 53 and 54 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in ≥20% of patients treated with KEYTRUDA and lenvatinib in KEYNOTE-581.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks with Lenvatinib N=352 | Sunitinib 50 mg N=340
 All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%)
@@ -1797,7 +1885,7 @@ Fatal adverse reactions occurred in 0.2% of those treated with KEYTRUDA, includi
 Discontinuation of KEYTRUDA due to an adverse reaction occurred in 21% of patients; the most common (≥1%) were increased ALT (1.6%), colitis (1%), and adrenal insufficiency (1%).
 
 Dose interruptions of KEYTRUDA due to an adverse reaction occurred in 26% of patients; the most common (≥1%) were increased AST (2.3%), arthralgia (1.6%), hypothyroidism (1.6%), diarrhea (1.4%), increased ALT (1.4%), fatigue (1.4%), rash, decreased appetite, and vomiting (1% each).
-Tables 53 and 54 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-564.
+Tables 55 and 56 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-564.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks n=488 | Placebo n=496
 All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%)
@@ -1853,7 +1941,7 @@ Adverse reactions which required dosage interruption of KEYTRUDA in ≥2% of pat
 
 The most common (≥25%) adverse reactions, including laboratory abnormalities, in patients who received KEYTRUDA in combination with belzutifan were decreased hemoglobin, increased ALT, fatigue, increased AST, decreased lymphocytes, and increased alkaline phosphatase.
 
-Tables 55 and 56 summarize adverse reactions and laboratory abnormalities, respectively, in LITESPARK-022.
+Tables 57 and 58 summarize adverse reactions and laboratory abnormalities, respectively, in LITESPARK-022.
 
 Adverse Reaction | KEYTRUDA 400 mg every 6 weeks plus Belzutifan n=915 | KEYTRUDA 400 mg every 6 weeks plus Placebo n=913
  | All GradesGraded per NCI CTCAE v5.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%)
@@ -1901,7 +1989,7 @@ In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcino
 The safety of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.17)].
 Patients with endometrial carcinoma that is pMMR or not MSI-H received KEYTRUDA 200 mg every 3 weeks in combination with lenvatinib 20mg orally once daily (n=342) or received doxorubicin or paclitaxel (n=325).
 
-For patients with pMMR or not MSI-H tumor status, the median duration of study treatment was 7.2 months (range 1 day to 26.8 months) and the median duration of exposure to KEYTRUDA was 6.8 months (range: 1 day to 25.8 months).
+For patients with pMMR or not MSI-H tumor status, the median duration of study treatment was 7.2 months (range: 1 day to 26.8 months) and the median duration of exposure to KEYTRUDA was 6.8 months (range: 1 day to 25.8 months).
 
 Fatal adverse reactions among these patients occurred in 4.7% of those treated with KEYTRUDA and lenvatinib, including 2 cases of pneumonia, and 1 case of the following: acute kidney injury, acute myocardial infarction, colitis, decreased appetite, intestinal perforation, lower gastrointestinal hemorrhage, malignant gastrointestinal obstruction, multiple organ dysfunction syndrome, myelodysplastic syndrome, pulmonary embolism, and right ventricular dysfunction.
 
@@ -1914,7 +2002,7 @@ The most common adverse reaction leading to discontinuation of KEYTRUDA (≥1%) 
 Dose interruptions of KEYTRUDA due to an adverse reaction occurred in 48% of these patients.
 The most common adverse reactions leading to interruption of KEYTRUDA (≥3%) were diarrhea (8%), increased ALT (4.4%), increased AST (3.8%), and hypertension (3.5%).
 
-Tables 57 and 58 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with lenvatinib in KEYNOTE-775.
+Tables 59 and 60 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with lenvatinib in KEYNOTE-775.
 
 | Endometrial Carcinoma (pMMR or not MSI-H)
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and Lenvatinib n=342 | Doxorubicin or Paclitaxel n=325
@@ -1993,7 +2081,7 @@ Adverse reactions occurring in patients with TMB-H cancer were similar to those 
 
 cSCC
 
-Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.19)], the median duration of exposure to KEYTRUDA was 6.9 months (range 1 day to 28.9 months).
+Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.19)], the median duration of exposure to KEYTRUDA was 6.9 months (range: 1 day to 28.9 months).
 Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
 Adverse reactions occurring in patients with recurrent or metastatic cSCC or locally advanced cSCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included lymphopenia (10%) and decreased sodium (10%).
@@ -2018,7 +2106,7 @@ The most common adverse reactions (≥1%) resulting in permanent discontinuation
 Adverse reactions leading to the interruption of KEYTRUDA occurred in 57% of patients.
 The most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were neutropenia (26%), thrombocytopenia (6%), increased ALT (6%), increased AST (3.7%), anemia (3.5%), rash (3.2%), febrile neutropenia (2.8%), leukopenia (2.8%), upper respiratory tract infection (2.6%), pyrexia (2.2%), and fatigue (2.1%).
 
-Tables 59 and 60 summarize the adverse reactions and laboratory abnormalities, respectively, in patients treated with KEYTRUDA in KEYNOTE-522.
+Tables 61 and 62 summarize the adverse reactions and laboratory abnormalities, respectively, in patients treated with KEYTRUDA in KEYNOTE-522.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks with chemotherapyChemotherapy: carboplatin and paclitaxel followed by doxorubicin or epirubicin and cyclophosphamide/KEYTRUDA n=778 | Placebo with chemotherapy/Placebo n=389
 All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%)
@@ -2102,7 +2190,7 @@ The most common adverse reactions resulting in permanent discontinuation of KEYT
 Adverse reactions leading to the interruption of KEYTRUDA occurred in 50% of patients.
 The most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were neutropenia (22%), thrombocytopenia (14%), anemia (7%), increased ALT (6%), leukopenia (5%), increased AST (5%), decreased white blood cell count (3.9%), and diarrhea (2%).
 
-Tables 61 and 62 summarize the adverse reactions and laboratory abnormalities in patients on KEYTRUDA in KEYNOTE-355.
+Tables 63 and 64 summarize the adverse reactions and laboratory abnormalities in patients on KEYTRUDA in KEYNOTE-355.
 
 Adverse Reaction | KEYTRUDA 200 mg every 3 weeks with chemotherapy n=596 | Placebo every 3 weeks with chemotherapy n=281
 All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%)
