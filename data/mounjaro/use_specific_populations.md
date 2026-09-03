@@ -66,9 +66,11 @@ The safety and effectiveness of MOUNJARO have not been established in pediatric 
 
 ## 8.5 Geriatric Use
 
-In the pool of seven clinical trials, 1539 (30.1%) MOUNJARO-treated patients were 65 years of age or older, and 212 (4.1%) MOUNJARO-treated patients were 75 years of age or older at baseline.
+In the pool of seven clinical trials, 1,539 (30.1%) MOUNJARO-treated patients were 65 years of age or older, and 212 (4.1%) MOUNJARO-treated patients were 75 years of age or older at baseline [see Adverse Reactions (6.1), Clinical Studies (14.2, 14.3, 14.4)].
 
-No overall differences in safety or efficacy were detected between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+In a CV outcomes trial, 3,327 (50%) of MOUNJARO-treated patients were 65 years of age or older, and 705 (11%) of MOUNJARO-treated patients were 75 years of age or older at baseline [see Clinical Studies (14.6)].
+
+No overall differences in safety or effectiveness of MOUNJARO have been observed between patients 65 years of age and older and younger adult patients.
 
 ## 8.6 Renal Impairment
 

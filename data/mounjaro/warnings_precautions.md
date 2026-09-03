@@ -54,8 +54,7 @@ MOUNJARO is not recommended in patients with severe gastroparesis.
 
 ## 5.7 Diabetic Retinopathy Complications in Patients with a History of Diabetic Retinopathy
 
-Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy.
-MOUNJARO has not been studied in patients with non-proliferative diabetic retinopathy requiring acute therapy, proliferative diabetic retinopathy, or diabetic macular edema.
+Temporary worsening of diabetic retinopathy has been reported with rapid improvement in glucose control.
 Patients with a history of diabetic retinopathy should be monitored for progression of diabetic retinopathy.
 
 ## 5.8 Acute Gallbladder Disease
