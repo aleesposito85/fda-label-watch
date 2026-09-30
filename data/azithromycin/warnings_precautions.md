@@ -38,14 +38,14 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 ## 5.5 Cardiovascular Death
 
 Some observational studies have shown an approximately two-fold increased short-term potential risk of acute cardiovascular death in adults exposed to azithromycin relative to other antibacterial drugs, including amoxicillin.
-The five-day cardiovascular mortality observed in these studies ranged from20to 400 per million azithromycin treatment courses.
+The five-day cardiovascular mortality observed in these studies ranged from 20 to 400 per million azithromycin treatment courses.
 This potential risk was noted to be greater during the first five days of azithromycin use and does not appear to be limited to those patients with preexisting cardiovascular diseases.
 The data in these observational studies are insufficient to establish or exclude a causal relationship between acute cardiovascular death and azithromycin use.
 Consider balancing this potential risk with treatment benefits when prescribing azithromycin.
 
 ## 5.6 Clostridioides difficile-Associated Diarrhea
 
-Clostridioidesdifficile-associated diarrhea has been reported with use of nearly all antibacterial agents, including azithromycin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioidesdifficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including azithromycin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
 C. difficileproduces toxins A and B which contribute to the development of CDAD.
@@ -60,7 +60,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.8 Use in Sexually Transmitted Infections
+## 5.8 Risk of Antibacterial Resistance in Sexually Transmitted Infections
 
 Azithromycin, at the recommended dose, should not be relied upon to treat syphilis.
 Antibacterial agents used to treat non-gonococcal urethritis may mask or delay the symptoms of incubating syphilis.

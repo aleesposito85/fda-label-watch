@@ -21,7 +21,7 @@ In adults given 500 mg/day for 3 days, the discontinuation rate due to treatment
 In clinical trials in pediatric patients given 30 mg/kg, either as a single dose or over 3 days, discontinuation from the trials due to treatment-related adverse reactions was approximately 1%.
 Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain. [see Clinical Studies (14.2)]
 
-Adults
+Clinical Trials Experience in Adults
 
 Multiple-dose regimens: Overall, the most common treatment-related adverse reactions in adult patients receiving multiple-dose regimens of azithromycin were related to the gastrointestinal system with diarrhea/loose stools (4 to 5%), nausea (3%), and abdominal pain (2 to 3%) being the most frequently reported.
 
@@ -52,14 +52,16 @@ Overall, the most common adverse reactions in patients receiving a single 2 gram
 Adverse reactions that occurred in patients in this study with a frequency of 1% or greater included nausea (18%), diarrhea/loose stools (14%), vomiting (7%), abdominal pain (7%), vaginitis (2%), dyspepsia (1%), and dizziness (1%).
 The majority of these complaints were mild in nature.
 
-Pediatric Patients
+Clinical Trials Experience in Pediatric Patients
 
 Single and Multiple-dose regimens: The types of adverse reactions in pediatric patients were comparable to those seen in adults, with different incidence rates for the dosage regimens recommended in pediatric patients.
 
-Acute Otitis Media:For the recommended total dosage regimen of 30 mg/kg, the most frequent adverse reactions (≥1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea, and rash. [see Dosage and Administration (2) and Clinical Studies (14.2) ]
+Acute Otitis Media:For the recommended total dosage regimen of 30 mg/kg, the most frequent adverse reactions (≥1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea, and rash. [see Dosage and Administration (2)and Clinical Studies (14.2) ]
 
-The incidence, based on dosing regimen, is described in the table below:
+The incidence, based on dosing regimen, is described in table 8 below:
 
+Table 8.
+Incidence of Adverse Reactions in Pediatric Patients Treated for Acute Otitis Media
 Dosage Regimen | Diarrhea % | Abdominal Pain % | Vomiting % | Nausea % | Rash %
 1-day | 4.3% | 1.4% | 4.9% | 1.0% | 1.0%
 3-day | 2.6% | 1.7% | 2.3% | 0.4% | 0.6%
@@ -67,15 +69,19 @@ Dosage Regimen | Diarrhea % | Abdominal Pain % | Vomiting % | Nausea % | Rash %
 
 Community-Acquired Pneumonia:For the recommended dosage regimen of 10 mg/kg on Day 1 followed by 5 mg/kg on Days 2 to 5, the most frequent adverse reactions attributed to treatment were diarrhea/loose stools, abdominal pain, vomiting, nausea, and rash.
 
-The incidence is described in the table below:
+The incidence is described in table 9 below:
 
+Table 9.
+Incidence of Adverse Reactions in Pediatric Patients Treated for Community-Acquired Pneumonia
 Dosage Regimen | Diarrhea/Loose stools % | Abdominal Pain % | Vomiting % | Nausea % | Rash %
 5-day | 5.8% | 1.9% | 1.9% | 1.9% | 1.6%
 
 Pharyngitis/Tonsillitis:For the recommended dosage regimen of 12 mg/kg on Days 1 to 5, the most frequent adverse reactions attributed to treatment were diarrhea, vomiting, abdominal pain, nausea, and headache.
 
-The incidence is described in the table below:
+The incidence is described in table 10 below:
 
+Table 10.
+Incidence of Adverse Reactions in Pediatric Patients Treated for Pharyngitis/Tonsillitis
 Dosage Regimen | Diarrhea % | Abdominal Pain % | Vomiting % | Nausea % | Rash % | Headache %
 5-day | 5.4% | 3.4% | 5.6% | 1.8% | 0.7% | 1.1%
 
@@ -113,16 +119,16 @@ Genitourinary:Interstitial nephritis and acute renal failure and vaginitis.
 Hematopoietic:Thrombocytopenia.
 Liver/Biliary:Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure. [see Warnings and Precautions (5.2)] Nervous System:Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation, and syncope.
 Psychiatric:Aggressive reaction and anxiety.
-Skin/Appendages:Pruritus, serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+Skin/Appendages:Pruritus serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
 Special Senses:Hearing disturbances including hearing loss, deafness and/or tinnitus, and reports of taste/smell perversion and/or loss.
 
 ## 6.3 Laboratory Abnormalities
 
-Adults: Clinically significant abnormalities (irrespective of drug relationship) occurring during the clinical trials were reported as follows: with an incidence of greater than 1%: decreased hemoglobin, hematocrit, lymphocytes, neutrophils, and blood glucose; elevated serum creatine phosphokinase, potassium, ALT, GGT, AST, BUN, creatinine, blood glucose, platelet count, lymphocytes, neutrophils, and eosinophils; with an incidence of less than 1%: leukopenia, neutropenia, decreased sodium, potassium, platelet count, elevated monocytes, basophils, bicarbonate, serum alkaline phosphatase, bilirubin, LDH, and phosphate.
+Adults Clinically significant abnormalities (irrespective of drug relationship) occurring during the clinical trials were reported as follows: with an incidence of greater than 1%: decreased hemoglobin, hematocrit, lymphocytes, neutrophils, and blood glucose; elevated serum creatine phosphokinase, potassium, ALT, GGT, AST, BUN, creatinine, blood glucose, platelet count, lymphocytes, neutrophils, and eosinophils; with an incidence of less than 1%: leukopenia, neutropenia, decreased sodium, potassium, platelet count, elevated monocytes, basophils, bicarbonate, serum alkaline phosphatase, bilirubin, LDH, and phosphate.
 The majority of subjects with elevated serum creatinine also had abnormal values at baseline.
 When follow-up was provided, changes in laboratory tests appeared to be reversible.
 In multiple-dose clinical trials involving more than 5000 patients, four patients discontinued therapy because of treatment-related liver enzyme abnormalities and one because of a renal function abnormality.
-Pediatric Patients: One, Three, and Five-Day Regimens Laboratory data collected from comparative clinical trials employing two 3-day regimens (30 mg/kg or 60 mg/kg in divided doses over 3 days), or two 5-day regimens (30 mg/kg or 60 mg/kg in divided doses over 5 days) were similar for regimens of azithromycin and all comparators combined, with most clinically significant laboratory abnormalities occurring at incidences of 1 to 5%.
+Pediatric Patients One, Three, and Five-Day Regimens Laboratory data collected from comparative clinical trials employing two 3-day regimens (30 mg/kg or 60 mg/kg in divided doses over 3 days), or two 5-day regimens (30 mg/kg or 60 mg/kg in divided doses over 5 days) were similar for regimens of azithromycin and all comparators combined, with most clinically significant laboratory abnormalities occurring at incidences of 1 to 5%.
 Laboratory data for patients receiving 30 mg/kg as a single dose were collected in one single center trial.
 In that trial, an absolute neutrophil count between 500 to 1500 cells/mm 3was observed in 10/64 patients receiving 30 mg/kg as a single dose, 9/62 patients receiving 30 mg/kg given over 3 days, and 8/63 comparator patients.
 No patient had an absolute neutrophil count <500 cells/mm 3.
