@@ -124,12 +124,7 @@ KEYTRUDA, as a single agent, is indicated for the treatment of adult patients wi
 
 ## 1.18 Tumor Mutational Burden-High Cancer
 
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-authorized test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.18)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
-
-Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patients with TMB-H central nervous system cancers have not been established.
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥13 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-authorized test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
 
 ## 1.19 Cutaneous Squamous Cell Carcinoma
 

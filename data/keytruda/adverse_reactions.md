@@ -481,7 +481,7 @@ Hypophosphatemia | 23 | 6.1 | 15 | 7.0
 Increased creatinine | 22 | 2.0 | 27 | 2.9
 Hypercalcemia | 21 | 2.0 | 14 | 1.3
 
-Neoadjuvant Phase of KEYNOTE 689
+Neoadjuvant Phase of KEYNOTE-689
 
 Of the 361 patients who received at least one dose of single agent KEYTRUDA as neoadjuvant treatment, 11% of patients experienced serious adverse reactions.
 Serious adverse reactions that occurred in more than one patient were pneumonia (1.4%), tumor hemorrhage (0.8%), dysphagia (0.6%), immune mediated hepatitis (0.6%), cellulitis (0.6%), and dyspnea (0.6%).
@@ -502,7 +502,7 @@ Of the 307 patients randomized to SOC who received surgery on study, 0.3% (n=1) 
 Among the KEYTRUDA-treated patients who received surgery, 2.8% (n=9) did not receive adjuvant treatment due to adverse reactions.
 Among the SOC-treated patients who received surgery, 3.6% (n=11) did not receive adjuvant RT or chemoradiation due to adverse reactions.
 
-Adjuvant Phase of KEYNOTE 689
+Adjuvant Phase of KEYNOTE-689
 
 A total of 275 patients in the KEYTRUDA arm and 275 patients in the SOC arm started the adjuvant phase of treatment.
 On the KEYTRUDA arm, 100 patients received KEYTRUDA and cisplatin with concurrent RT, 154 patients received KEYTRUDA alone with concurrent RT, 7 patients received cisplatin alone with concurrent RT, and 13 patients received RT alone.
@@ -2075,8 +2075,8 @@ Adverse reactions occurring in patients with endometrial carcinoma were similar 
 
 TMB-H Cancer
 
-The safety of KEYTRUDA was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.18)].
-The median duration of exposure to KEYTRUDA was 4.9 months (range: 0.03 to 35.2 months).
+The safety of KEYTRUDA was investigated in 220 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.18)].
+The median duration of exposure to KEYTRUDA was 7 months (range: 1 day to 25 months).
 Adverse reactions occurring in patients with TMB-H cancer were similar to those occurring in patients with other solid tumors who received KEYTRUDA as a single agent.
 
 cSCC
