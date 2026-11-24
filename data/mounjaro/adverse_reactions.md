@@ -10,7 +10,8 @@ The following serious adverse reactions are described below or elsewhere in the 
 - Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Diabetic Retinopathy Complications in Patients with a History of Diabetic Retinopathy [see Warnings and Precautions (5.7)]
 - Acute Gallbladder Disease [see Warnings and Precautions (5.8)]
-- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.9)]
+- Unilateral Decrease or Loss of Vision: NAION [see Warnings and Precautions (5.9)]
+- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 

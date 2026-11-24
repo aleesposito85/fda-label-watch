@@ -16,7 +16,7 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, or MOUNJARO [see Adverse Reactions (6)].
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with glucagon-like peptide-1 (GLP-1) receptor agonists, or MOUNJARO [see Adverse Reactions (6)].
 
 After initiation of MOUNJARO, observe patients carefully for signs and symptoms of acute pancreatitis, which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue MOUNJARO and initiate appropriate management.
@@ -64,7 +64,18 @@ Acute events of gallbladder disease such as cholelithiasis or cholecystitis have
 In MOUNJARO placebo-controlled clinical trials in adults, acute gallbladder disease (cholelithiasis, biliary colic, and cholecystectomy) was reported by 0.6% of MOUNJARO-treated patients and 0% of placebo-treated patients.
 If cholelithiasis is suspected, gallbladder diagnostic studies and appropriate clinical follow-up are indicated.
 
-## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.9 Unilateral Decrease or Loss of Vision: Non-arteritic Anterior Ischemic Optic Neuropathy
+
+Non-arteritic anterior ischemic optic neuropathy (NAION), a rare condition that can result in acute, painless decreased vision in one eye, including permanent loss of vision, has been reported in patients treated with GLP-1 receptor agonists.
+Based on published literature, the annual incidence of NAION is 2.3 to 10.2 cases per 100,000 persons in adults older than 50 years of age.
+Data from an analysis of randomized controlled clinical trials for multiple GLP-1 receptor agonists showed an occurrence of 6.4 NAION cases per 100,000 person-years in GLP-1 receptor agonist-treated patients versus 3.8 NAION cases per 100,000 person-years in placebo- or non-GLP-1 receptor agonist comparator-treated patients.
+
+Patients with a history of NAION are at increased risk of recurrence.
+Instruct patients to immediately report sudden onset of acute, painless decreased vision; visual field deficits; or other visual disturbance in one eye.
+If NAION is suspected, promptly refer the patient to an ophthalmologist for evaluation.
+Consider discontinuing MOUNJARO in patients who develop NAION, unless the benefits of treatment clearly outweigh the risks.
+
+## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 MOUNJARO delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
@@ -72,7 +83,7 @@ There have been rare postmarketing reports of pulmonary aspiration in patients r
 Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking MOUNJARO, including whether modifying preoperative fasting recommendations or temporarily discontinuing MOUNJARO could reduce the incidence of retained gastric contents.
 Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking MOUNJARO.
 
-## 5.10 Never Share a MOUNJARO KwikPen Between Patients
+## 5.11 Never Share a MOUNJARO KwikPen Between Patients
 
 Never share MOUNJARO KwikPen between patients, even if the pen needle is changed.
 Sharing poses a risk for transmission of blood-borne pathogens.

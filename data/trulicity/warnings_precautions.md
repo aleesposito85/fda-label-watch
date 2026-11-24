@@ -73,7 +73,18 @@ In a cardiovascular outcomes trial with a median follow up of 5.4 years, choleli
 Serious events of acute cholecystitis were reported in 0.5% and 0.3% of patients on TRULICITY and placebo respectively.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
 
-## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.9 Unilateral Decrease or Loss of Vision: Non-arteritic Anterior Ischemic Optic Neuropathy
+
+Non-arteritic anterior ischemic optic neuropathy (NAION), a rare condition that can result in acute, painless decreased vision in one eye, including permanent loss of vision, has been reported in patients treated with GLP-1 receptor agonists.
+Based on published literature, the annual incidence of NAION is 2.3 to 10.2 cases per 100,000 persons in adults older than 50 years of age.
+Data from an analysis of randomized controlled clinical trials for multiple GLP-1 receptor agonists showed an occurrence of 6.4 NAION cases per 100,000 person-years in GLP-1 receptor agonist-treated patients versus 3.8 NAION cases per 100,000 person-years in placebo- or non-GLP-1 receptor agonist comparator-treated patients.
+
+Patients with a history of NAION are at increased risk of recurrence.
+Instruct patients to immediately report sudden onset of acute, painless decreased vision; visual field deficits; or other visual disturbance in one eye.
+If NAION is suspected, promptly refer the patient to an ophthalmologist for evaluation.
+Consider discontinuing TRULICITY in patients who develop NAION, unless the benefits of treatment clearly outweigh the risks.
+
+## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 TRULICITY delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
